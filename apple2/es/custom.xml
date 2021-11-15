@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+				<text name="info1" extra="true">
+			<text>Apple II fue la primera serie de microcomputadoras de producción masiva hecha por la empresa Apple Computer. El Apple II tenía una arquitectura de 8 bits basada en el procesador 6502.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Apple II</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple Computer, Inc.</text>
+		</text>		
+	</view>
+</theme>

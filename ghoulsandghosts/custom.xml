@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma série de videogame de plataforma run-and-gun criada por Tokuro Fujiwara e desenvolvida pela Capcom. A série principal se concentra na busca do cavaleiro Arthur para salvar a princesa Prin-Prin do rei demônio Astaroth. Os principais derivados incluem a série de jogos Gargoyle's Quest e Maximo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma série de videogame de plataforma run-and-gun criada por Tokuro Fujiwara e desenvolvida pela Capcom. A série principal se concentra na busca do cavaleiro Arthur para salvar a princesa Prin-Prin do rei demônio Astaroth. Os principais derivados incluem a série de jogos Gargoyle's Quest e Maximo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a run-and-gun platform video game series created by Tokuro Fujiwara and developed by Capcom.  The main series focuses on the knight Arthur's quest to save princess Prin-Prin from the demon king Astaroth. The primary spin-offs include the Gargoyle's Quest and Maximo game series.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de videojuegos de plataformas de correr y disparar creada por Tokuro Fujiwara y desarrollada por Capcom. La serie principal se centra en la búsqueda del caballero Arturo para salvar a la princesa Prin-Prin del rey demonio Astaroth. Los principales derivados incluyen la serie de juegos Gargoyle's Quest y Maximo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux vidéo de plate-forme run-and-gun créée par Tokuro Fujiwara et développée par Capcom. La série principale se concentre sur la quête du chevalier Arthur pour sauver la princesse Prin-Prin du roi démon Astaroth. Les principales retombées comprennent les séries de jeux Gargoyle's Quest et Maximo.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ghosts 'n Goblins</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tokuro Fujiwara</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

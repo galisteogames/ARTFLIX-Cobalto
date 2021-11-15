@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>JRPG (short for Japanese RPG) are electronic role-playing games that generally anime/manga character designs, RPG elements, fantasy setting and widely considered as being inspired or influenced by japanese culture.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>JRPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

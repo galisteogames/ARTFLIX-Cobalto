@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>WonderSwan est une console de jeux vidéo 16 bits, portable, créée par Koto Laboratory — fondé par Gunpei Yokoi — et vendue par Bandai. L'inventeur de cette console est Gunpei Yokoi, le géniteur de la Game Boy.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>WonderSwan</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

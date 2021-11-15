@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Les Atari ST forment une famille d'ordinateurs personnels conçus par la firme américaine Atari dont le succès commercial a marqué la deuxième moitié des années 1980 et le début des années 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari ST</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

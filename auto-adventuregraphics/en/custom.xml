@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>They are electronic games whose emphasis is focused on the plot and not the graphics or action. They are characterized by exploring scenarios, riddles and puzzles (so-called "puzzles"), interaction with other characters and a focus on narrative.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Graphic Adventure</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

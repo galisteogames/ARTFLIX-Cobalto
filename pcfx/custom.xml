@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console doméstico de 32 bits feito pela NEC. É o sucessor do PC Engine, conhecido como TurboGrafx-16 na América do Norte.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>PC-FX</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+	</view>
+
+	
+</theme>

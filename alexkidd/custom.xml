@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É o protagonista de uma série de videogames produzidos pela SEGA entre o final dos anos 80 e início dos anos 90. O personagem e seus jogos (como Alex Kidd in Miracle World) inicialmente fizeram sucesso, a ponto da Sega aproveitar sua imagem como seu mascote oficial.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É o protagonista de uma série de videogames produzidos pela SEGA entre o final dos anos 80 e início dos anos 90. O personagem e seus jogos (como Alex Kidd in Miracle World) inicialmente fizeram sucesso, a ponto da Sega aproveitar sua imagem como seu mascote oficial.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is the protagonist of a series of video games obtained by SEGA between the late 1980s and early 1990s. The character and his games (such as Alex Kidd in Miracle World) echoed the success, to the point that Sega capitalized on his image as its mascot official.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es el protagonista de una serie de videojuegos obtenidos por SEGA entre finales de los 80 y principios de los 90. El personaje y sus juegos (como Alex Kidd en Miracle World) se hicieron eco del éxito, hasta el punto de que Sega capitalizó su imagen como su mascota oficial.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Il est le protagoniste d'une série de jeux vidéo obtenus par SEGA entre la fin des années 1980 et le début des années 1990. Le personnage et ses jeux (comme Alex Kidd dans Miracle World) ont fait écho au succès, au point que Sega a capitalisé sur son image comme son mascotte officielle.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Alex Kidd</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Ossale Kohta</text>
+		</text>			
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

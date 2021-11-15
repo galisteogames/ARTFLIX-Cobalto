@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma série de videogame produzida pela Konami composta principalmente de jogos de tiro no estilo de run'n'gun. A série estreou em 1987, que foi seguido pelo lançamento de Super Contra em 1988 e várias sequências produzidas para várias plataformas domésticas.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma série de videogame produzida pela Konami composta principalmente de jogos de tiro no estilo de run'n'gun. A série estreou em 1987, que foi seguido pelo lançamento de Super Contra em 1988 e várias sequências produzidas para várias plataformas domésticas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a video game series produced by Konami composed primarily of run and gun-style shooting games. The series debuted in 1987 as a coin-operated arcade game titled Contra, which was followed by the release of Super Contra in 1988 and several sequels produced for various home platforms.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de videojuegos producida por Konami compuesta principalmente por juegos de disparos al estilo de correr y disparar. La serie debutó en 1987, al que siguió el lanzamiento de Super Contra en 1988 y varias secuelas producidas para varias plataformas domésticas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux vidéo produite par Konami composée principalement de jeux de tir de style run et gun. La série a fait ses débuts en 1987, suivie de la sortie de Super Contra en 1988 et de plusieurs suites produites pour diverses plates-formes domestiques.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Contra</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Konami</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

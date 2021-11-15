@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Les jeux de rôle d'action forment un sous-genre vaguement défini de jeux vidéo de rôle qui incorpore des éléments d'action ou de jeux d'action-aventure, mettant l'accent sur l'action en temps réel où le joueur a un contrôle direct sur les personnages.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action RPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

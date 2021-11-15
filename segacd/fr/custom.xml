@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Sega Mega-CD est un périphérique destiné à la console de jeu vidéo Mega Drive de Sega. Il s'agit d'un lecteur de CD-ROM permettant de lire des jeux au format CD-ROM.</text>
+		</text>
+		
+		
+		
+				<text name="info2" extra="true">
+			<text>Sega CD</text>
+		</text>
+
+		
+				<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+		
+		<image name="logo">
+		<path>./../_inc/logos/segamegacd.png</path>
+	</image>	
+	
+</view>
+
+</theme>

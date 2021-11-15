@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Se trata de juegos electrónicos cuyo énfasis se centra en la trama y no en los gráficos o la acción. Se caracterizan por explorar escenarios, acertijos y acertijos (los llamados "rompecabezas"), la interacción con otros personajes y un enfoque narrativo.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Aventura Gráfica</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

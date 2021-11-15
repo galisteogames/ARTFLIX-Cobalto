@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo GameCube, es una de las consolas de sexta generación y fue fabricada por Nintendo. Es la sucesora de la Nintendo 64 y la predecesora de la Wii. Logró vender 21 740 000 unidades mundialmente.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>GameCube</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

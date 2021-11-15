@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
+			Quem será o melhor jogador...
+			God Bless Retro Games!</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>Galeria de Imagens</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>		
+	</view>
+	
+	
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="pt">
+			<text>Sonic the Hedgehog é uma série de videogames japonesa e franquia de mídia criada e de propriedade da Sega. A franquia segue Sonic, um ouriço azul que luta contra o malvado Doctor Eggman, um cientista louco.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="en">
+			<text>Sonic the Hedgehog is a Japanese video game series and media franchise created and owned by Sega. The franchise follows Sonic, a blue hedgehog who battles the evil Doctor Eggman, a mad scientist.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="es">
+			<text>Sonic the Hedgehog es una serie de videojuegos japoneses y una franquicia de medios creada y propiedad de Sega. La franquicia sigue a Sonic, un erizo azul que lucha contra el malvado Doctor Eggman, un científico loco.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="fr">
+			<text>Sonic the Hedgehog est une série japonaise de jeux vidéo et une franchise multimédia créée et détenue par Sega. La franchise suit Sonic, un hérisson bleu qui combat le méchant docteur Eggman, un savant fou.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Sonic the Hedgehog</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>	
+</theme>

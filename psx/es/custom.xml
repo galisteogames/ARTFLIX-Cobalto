@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>PlayStation (プレイステーション Pureisuteshon, oficialmente abreviada como PS1) es una videoconsola de sobremesa de 32 bits lanzada por Sony Computer Entertainment el 3 de diciembre de 1994 en Japón.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Sony
+PlayStation</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+
+	
+	</view>
+</theme>

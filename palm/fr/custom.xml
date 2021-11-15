@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Palm, Inc. est une société de fabrication de matériel informatique et de logiciels fondée en 1992. Elle a été absorbée par la société américaine Robotics Corp. 1995. En juin 1997, Palm devient une filiale de 3Com.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Palm</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Palm, Inc.</text>
+		</text>	
+	</view>
+	
+	
+</theme>

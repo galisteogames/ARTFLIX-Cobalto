@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+				<text name="info1" extra="true">
+			<text>A600, aussi nommé Amiga 600, fut le dernier ordinateur de la lignée des A500. L'A600 utilisait le processeur Motorola 68000, cadencé à 7,09 MHz (PAL) ou 7,16 MHz (NTSC).</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Amiga</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>	
+		
+	</view>
+</theme>

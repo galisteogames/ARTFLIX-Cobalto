@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma série de jogos de plataforma side-scrolling com uma minhoca chamada Jim, que usa um traje robótico e luta contra as forças do mal. A série é conhecida por sua jogabilidade de plataforma e tiro, humor surreal e estilo de arte ousado.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma série de jogos de plataforma side-scrolling com uma minhoca chamada Jim, que usa um traje robótico e luta contra as forças do mal. A série é conhecida por sua jogabilidade de plataforma e tiro, humor surreal e estilo de arte ousado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of side-scrolling platform games featuring an earthworm named Jim who wears a robotic suit and battles the forces of evil. The series is noted for its platforming and shooting gameplay, surreal humor, and edgy art style.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de juegos de plataformas de desplazamiento lateral con una lombriz de tierra llamada Jim que viste un traje robótico y lucha contra las fuerzas del mal. La serie se destaca por su juego de plataformas y disparos, su humor surrealista y su estilo artístico vanguardista.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux de plate-forme à défilement horizontal mettant en vedette un ver de terre nommé Jim qui porte un costume robotique et combat les forces du mal. La série est connue pour son gameplay de plate-forme et de tir, son humour surréaliste et son style artistique avant-gardiste.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Earthworm Jim</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Doug TenNapel</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

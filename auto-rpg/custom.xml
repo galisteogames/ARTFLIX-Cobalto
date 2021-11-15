@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>RPG é um gênero de videogame em que o jogador controla as ações de um personagem (ou vários membros do grupo) imerso em algum mundo bem definido, geralmente envolvendo alguma forma de desenvolvimento do personagem por meio de estatísticas de registro.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>RPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

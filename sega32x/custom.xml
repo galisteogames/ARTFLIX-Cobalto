@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sega 32x é um acessório para o console da Sega, o Mega Drive, Genesis Na América do Norte. O acessório deveria ser inserido na entrada de cartucho do Mega Drive, recebendo cartuchos próprios ou do Mega Drive.</text>
+		</text>
+
+
+		<text name="info2" extra="true">
+			<text>Sega 32X</text>
+		</text>
+		
+
+		
+				<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega Corporation</text>
+		</text>	
+		
+	</view>
+</theme>

@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Is a virtual machine and game engine created by Lexaloffle Games. It is designed to mimic a "fantasy video game console, by emulating the harsh hardware limitations of the video game consoles around the early 1980s.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Pico-8</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2015</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Lexaloffle Games</text>
+		</text>			
+	</view>
+</theme>

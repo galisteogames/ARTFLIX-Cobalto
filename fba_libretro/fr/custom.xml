@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>FBA LIBRETRO est un émulateur de jeu vidéo d'arcade basé sur l'émulateur Final Burn, qui émule différents systèmes tel que le MVS, le CPS1 et CPS2, le System 16, System 18, X Board, Y Board de Sega, etc.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FBA Lib_RETRO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FinalBurn Team</text>
+		</text>	
+
+						<text name="info5" extra="true">
+			<text>DÉVELOPPEUR:</text>
+		</text>			
+	</view>
+	
+	
+</theme>

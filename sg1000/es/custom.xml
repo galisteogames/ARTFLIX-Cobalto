@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>Fue la primera videoconsola de sobremesa desarrollada por Sega. Fue primero lanzada al mercado en una primera fase de pruebas en Japón en 1981 y finalmente lanzada al mercado japonés en julio de 1983 por 15.000¥.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SG-1000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	</view>
+	
+</theme>

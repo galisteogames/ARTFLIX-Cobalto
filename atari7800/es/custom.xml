@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La sucesora de la consola Atari 5200 o supersystem, en un intento de Atari de recuperar su supremacía en el mercado de la videoconsola frente a sus rivales locales Intellivision y Colecovision.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

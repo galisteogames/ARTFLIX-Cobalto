@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+				<text name="info1" extra="true">
+			<text>The GD Rom upgrade is compatible with Naomi and Naomi 2 via the option port on the top of the board. It comes with a Dimm board, very similar to the ROM board on a normal Naomi cartridge, but has RAM instead of ROMS.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>NAOMI GD-ROM</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+	
+
+	
+</theme>

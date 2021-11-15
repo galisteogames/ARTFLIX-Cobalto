@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Le Commodore Amiga 500 Plus est une version améliorée de l'ordinateur Amiga 500 d'origine. Il était remarquable pour l'introduction de nouvelles versions de Kickstart et Workbench, et pour quelques améliorations mineures dans les puces personnalisées.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Amiga 500</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore</text>
+		</text>		
+	</view>
+			
+
+</theme>

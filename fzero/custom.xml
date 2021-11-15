@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A série é conhecida por suas corridas de alta velocidade, personagens e cenários, jogabilidade difícil e música original, bem como por ultrapassar os limites tecnológicos para ser um dos jogos de corrida mais rápidos. O título original inspirou a criação de jogos como Daytona USA e a série Wipeout.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A série é conhecida por suas corridas de alta velocidade, personagens e cenários, jogabilidade difícil e música original, bem como por ultrapassar os limites tecnológicos para ser um dos jogos de corrida mais rápidos. O título original inspirou a criação de jogos como Daytona USA e a série Wipeout.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The series is known for its high-speed racing, characters and settings, difficult gameplay, and original music, as well as for pushing technological limits to be one of the fastest racing games. The original title inspired the creation of games such as Daytona USA and the Wipeout series.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La serie es conocida por sus carreras de alta velocidad, personajes y escenarios, jugabilidad difícil y música original, así como por empujar los límites tecnológicos para ser uno de los juegos de carreras más rápidos. El título original inspiró la creación de juegos como Daytona USA y la serie Wipeout.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La série est connue pour ses courses à grande vitesse, ses personnages et ses paramètres, son gameplay difficile et sa musique originale, ainsi que pour repousser les limites technologiques pour être l'un des jeux de course les plus rapides. </text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>F-Zero</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Shigeru Miyamoto</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

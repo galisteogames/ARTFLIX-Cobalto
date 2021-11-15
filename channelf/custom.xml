@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Fairchild Channel F foi o primeiro videogame da segunda geração de consoles de jogos, além de ser também o primeiro realmente programável.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Fairchild Channel F</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1976</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Fairchild Camera and Instrument</text>
+		</text>			
+	</view>
+</theme>

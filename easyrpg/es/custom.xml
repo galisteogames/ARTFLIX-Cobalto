@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>EasyRPG es un motor de juegos de código abierto que reimplementa las plataformas RPG Maker 2000 y 2003. Busca ofrecer portabilidad y compatibilidad total con juegos RM2k / 2k3 mientras corrige errores en el motor del juego original.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>EasyRPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>EasyRPG Team</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Virtual Boy fue una consola de videojuegos, lanzada en 1995 por Nintendo, que usaba un proyector de estilo gafas para mostrar los juegos en «verdadero» 3D, por medio de un efecto estereoscópico.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Virtual Boy</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

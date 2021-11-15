@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi originalmente fundada como "Disney Brothers Cartoon Studio"; antes de mudar oficialmente seu nome para The Walt Disney Company em 1986. A empresa se estabeleceu como líder na indústria de animação americana antes de se diversificar em produção de filmes, televisão e parques temáticos.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Foi originalmente fundada como "Disney Brothers Cartoon Studio"; antes de mudar oficialmente seu nome para The Walt Disney Company em 1986. A empresa se estabeleceu como líder na indústria de animação americana antes de se diversificar em produção de filmes, televisão e parques temáticos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Was originally founded as the "Disney Brothers Cartoon Studio"; before officially changing its name to The Walt Disney Company in 1986. The company established itself as a leader in the American animation industry before diversifying into film production, television, and theme parks.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Se fundó originalmente como "Disney Brothers Cartoon Studio"; antes de cambiar oficialmente su nombre a The Walt Disney Company en 1986. La compañía se estableció como líder en la industria de la animación estadounidense antes de diversificarse en producción cinematográfica, televisión y parques temáticos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>A été fondé à l'origine sous le nom de "Disney Brothers Cartoon Studio" ; avant de changer officiellement de nom pour The Walt Disney Company en 1986. La société s'est imposée comme un leader de l'industrie de l'animation américaine avant de se diversifier dans la production cinématographique, la télévision et les parcs à thème.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Disney</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1923</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Walt Disney, Roy O. Disney</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

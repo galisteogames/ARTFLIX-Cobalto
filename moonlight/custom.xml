@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Moonlight permite que você faça stream dos jogos da sua coleção da Steam no seu Raspberry Pi. Moonlight é perfeito para jogar 'on the go' sem sacrificar o seu PC.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Moonlight</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Case Western Reserve University</text>
+		</text>			
+	</view>
+
+</theme>

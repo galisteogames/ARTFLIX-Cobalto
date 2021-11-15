@@ -1,0 +1,22 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sharp X68000, communément appelé X68000 ou X68k, est un ordinateur personnel de Sharp Corporation commercialisé au Japon à partir de 1987. Le premier modèle utilisait un microprocesseur Motorola 68000 à 10 MHz.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sharp X68000</text>
+		</text>
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sharp Corporation</text>
+		</text>	
+	</view>
+	
+	
+</theme>

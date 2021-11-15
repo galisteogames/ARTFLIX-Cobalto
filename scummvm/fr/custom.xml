@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>ScummVM est une machine virtuelle qui permet de jouer aux jeux qui utilisent le système SCUMM (comme les jeux d'aventure de LucasArts) sur des plates-formes autres que celles originellement supportées par le jeu.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>ScummVM</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ScummVM Team</text>
+		</text>
+<text name="info5" extra="true" >
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+	
+	
+</theme>

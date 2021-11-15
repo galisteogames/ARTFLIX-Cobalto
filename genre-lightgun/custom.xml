@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Uma pistola de luz (também conhecida pelo nome em inglês, light gun) é um dispositivo de indicação para computadores e um controlador para jogos de arcade e consoles de videogame.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Lightgun</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+	</view>
+</theme>

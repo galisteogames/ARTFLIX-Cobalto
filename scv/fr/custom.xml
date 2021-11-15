@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Est une console de jeux vidéo conçue par Epoch Co. et sortie au Japon le 17 juillet 1984 et en Europe, plus précisément en France, plus tard en 1984. Successeur de la Cassette Vision, elle rivalisait avec le Family Computer de Nintendo et le SG-1000 de Sega. ligne au Japon.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Super Cassette Vision</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+
+	</view>
+	
+	
+</theme>

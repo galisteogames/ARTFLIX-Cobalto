@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>Es una máquina virtual y un motor de juegos creado por Lexaloffle Games. Está diseñado para imitar una "consola de videojuegos de fantasía, emulando las duras limitaciones de hardware de las consolas de videojuegos de la década de 1980".</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Pico-8</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2015</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Lexaloffle Games</text>
+		</text>			
+	</view>
+</theme>

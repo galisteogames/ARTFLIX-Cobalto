@@ -1,0 +1,22 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>3DO Interactive Multiplayer foi um videogame doméstico com arquitetura de 32 bits. O 3DO consiste em especificações técnicas criadas pela "3DO Company", que é uma sociedade entre 7 diferentes empresas.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Panasonic, Sanyo, GoldStar</text>
+		</text>
+		
+	</view>
+</theme>

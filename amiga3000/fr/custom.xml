@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>L'Amiga 3000 est un ordinateur personnel commercialisé par Commodore en juin 1990. Il présente une vitesse de traitement améliorée, un rendu graphique amélioré et une nouvelle révision du système d'exploitation. Il est le successeur de l'Amiga 2000.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 3000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

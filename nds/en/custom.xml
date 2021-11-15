@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It is a portable video game console developed and produced by Nintendo, launched in 2004. It is visually distinguished by its open and close design, and the presence of two screens, the lower one being touch sensitive.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo DS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

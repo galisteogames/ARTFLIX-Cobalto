@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>C'était un périphérique qui permettait à la console de jeu vidéo Atari Jaguar d'utiliser le CD-ROM comme support de stockage de jeu, lancé en 1995. L'unité a été lancée à la mi-1995 pour 149,95 $.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari Jaguar CD</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>			
+	</view>
+	
+
+</theme>

@@ -1,0 +1,23 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+				<text name="info1" extra="true">
+			<text>3DO Interactive Multiplayer est initialement le nom porté par la première console de jeux vidéo développée par la société Panasonic et répondant au standard 3DO établi par The 3DO Company.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Panasonic, Sanyo, GoldStar</text>
+		</text>
+		
+	</view>
+</theme>

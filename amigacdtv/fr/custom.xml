@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga CDTV (acronyme de Commodore Dynamic Total Vision) est un modèle d'ordinateur personnel Commodore Amiga lancé en mars 1991, la première console de l'histoire à disposer d'un lecteur de CD fabriqué en usine.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga CDTV</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>		
+	</view>
+</theme>

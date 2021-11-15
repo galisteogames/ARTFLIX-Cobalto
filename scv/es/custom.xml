@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Es una consola de videojuegos para el hogar fabricada por Epoch Co. y lanzada en Japón el 17 de julio de 1984, y en Europa más tarde en 1984. Sucesora de Cassette Vision, compitió con la Family Computer de Nintendo y la SG-1000 de Sega. línea en Japón.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Super Cassette Vision</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+
+	</view>
+	
+	
+</theme>

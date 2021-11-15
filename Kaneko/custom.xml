@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Here you will find and organize all games from that collection / category of your collection in a single system. The games included here can be selected automatically by the system or manually, according to various selected criteria.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Aquí encontrará y organizará todos los juegos de esa colección / categoría de su colección en un solo sistema. Los juegos incluidos aquí pueden ser seleccionados automáticamente por el sistema o manualmente, de acuerdo con varios criterios seleccionados.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Ici, vous trouverez et organiserez tous les jeux de cette collection / catégorie de votre collection dans un seul système. Les jeux inclus ici peuvent être sélectionnés automatiquement par le système ou manuellement, selon divers critères sélectionnés.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>$system</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Artflix Cobalto</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

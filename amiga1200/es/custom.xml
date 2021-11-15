@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A1200 utiliza una CPU CISC Motorola MC68EC020. Es notorio que como el 68000, el 68EC020 tiene un bus de expansión de 24-bits, lo que limita a un máximo de 16 Megabytes la memoria direccionable directamente.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1200</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

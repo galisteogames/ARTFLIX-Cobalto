@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Les jeux de combat se caractérisent par des combats rapprochés entre deux combattants ou groupes de combattants de force comparable, souvent divisés en rounds. Si plusieurs joueurs sont impliqués, les joueurs se battent généralement les uns contre les autres.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Fighting)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

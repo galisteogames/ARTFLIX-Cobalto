@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Satellaview es un periférico que funcionaba como un módem satelital para el sistema Super Famicom de Nintendo que se lanzó en Japón en 1995.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Satellaview</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+		</view>
+		
+		
+</theme>

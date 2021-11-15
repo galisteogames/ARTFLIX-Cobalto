@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Os jogos acontecem em um cenário de ficção científica e seguem as aventuras de Ratchet (um humanóide felino conhecido como Lombax, que é um mecânico) e Clank (um robô Zoni "defeituoso" diminuto e sensível) enquanto viajam pelo universo, salvando das forças do mal que constantemente o ameaçam.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Os jogos acontecem em um cenário de ficção científica e seguem as aventuras de Ratchet (um humanóide felino conhecido como Lombax, que é um mecânico) e Clank (um robô Zoni "defeituoso" diminuto e sensível) enquanto viajam pelo universo, salvando das forças do mal que constantemente o ameaçam.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The games take place in a science fiction setting and follow the adventures of Ratchet (a feline humanoid known as a Lombax, who is a mechanic) and Clank (a diminutive, sentient Zoni "defective" robot) as they travel through the universe, saving it from evil forces that consistently threaten it.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Los juegos tienen lugar en un entorno de ciencia ficción y siguen las aventuras de Ratchet (un humanoide felino conocido como Lombax, que es un mecánico) y Clank (un robot diminuto y sensible Zoni "defectuoso") mientras viajan por el universo, salvando de las fuerzas del mal que constantemente lo amenazan.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Les jeux se déroulent dans un décor de science-fiction et suivent les aventures de Ratchet (un humanoïde félin connu sous le nom de Lombax, qui est mécanicien) et Clank (un petit robot "défectueux" Zoni sensible) alors qu'ils voyagent à travers l'univers, sauvant des forces du mal qui le menacent constamment.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ratchet & Clank</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Insomniac Games</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

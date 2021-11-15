@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame lançado em 1987 pela NEC e Hudson Soft. Após seu lançamento no Japão e sua aceitação nesse país, foi lançado em 1988 nos Estados Unidos batizado de Turbo Grafx-16.</text>
+		</text>
+		
+		
+			<text name="info2" extra="true">
+			<text>PC Engine</text>
+		</text>
+						
+		
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+		
+	
+	</view>
+
+</theme>

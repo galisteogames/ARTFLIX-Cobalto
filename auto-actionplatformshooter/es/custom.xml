@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>El género de plataformas de correr y disparar fue popularizado por Contra de Konami. Gunstar Heroes y Metal Slug también se encuentran entre los tres ejemplos más populares de este estilo. Caracterizado por un enfoque mínimo en el salto de plataforma preciso y un mayor énfasis en disparos multidireccionales.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Acción (Platformer Shooter)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

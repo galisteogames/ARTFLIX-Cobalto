@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É o terceiro console de videogame doméstico da empresa japonesa Nintendo. Lançado em 23 de junho de 1996 no Japão, contava com três títulos de lançamento: Super Mario 64, PilotWings 64 e Saikyou Habu Shogi.</text>
+		</text>
+
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

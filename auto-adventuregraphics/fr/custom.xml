@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Ce sont des jeux électroniques dont l'accent est mis sur l'intrigue et non sur les graphismes ou l'action. Ils se caractérisent par l'exploration de scénarios, d'énigmes et de puzzles (appelés "puzzles"), l'interaction avec d'autres personnages et l'accent mis sur la narration.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Graphic Adventure</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

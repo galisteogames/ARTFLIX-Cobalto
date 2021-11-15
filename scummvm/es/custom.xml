@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+<text name="info1" extra="true">
+			<text>ScummVM (Scumm Virtual Machine, máquina virtual de Scumm en español) es un programa informático que permite ejecutar las aventuras gráficas creadas originalmente para el motor SCUMM de LucasArts.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>ScummVM</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ScummVM Team</text>
+		</text>
+<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>
+	
+	</view>
+	
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La ColecoVision est une console de jeu vidéo de deuxième génération commercialisée par Coleco, sortie en août 1982. Elle propose des graphismes et des manettes similaires aux jeux d'arcade de l'époque.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>ColecoVision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Coleco Industries, Inc.</text>
+		</text>			
+	</view>
+</theme>

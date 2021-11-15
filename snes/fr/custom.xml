@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Super Nintendo Entertainment System, ou Super Famicom (スーパーファミコン) au Japon, est une console de jeux vidéo 16 bits du constructeur japonais Nintendo commercialisée à partir de août 1991.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super Nintendo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		</view>
+</theme>

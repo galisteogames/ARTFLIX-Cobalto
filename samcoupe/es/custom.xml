@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>El SAM Coupé es una computadora doméstica británica de 8 bits, lanzada por primera vez a fines de 1989. Fue diseñada para ser compatible con y generalmente se considera un clon de la computadora Sinclair ZX Spectrum.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SAM Coupe</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Miles Gordon Technology</text>
+		</text>	
+	</view>
+	
+	
+</theme>

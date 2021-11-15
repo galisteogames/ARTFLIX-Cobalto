@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>OpenBOR es una continuación de código abierto del motor Beats of Rage. Aunque Beats of Rage estaba destinado a ser un juego independiente, el diseño modular de los elementos y el motor del juego significaba que los usuarios finales podían reemplazar los activos.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Open BOR</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Senile Team</text>
+		</text>	
+
+						<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>
+	
+	</view>
+	
+
+</theme>

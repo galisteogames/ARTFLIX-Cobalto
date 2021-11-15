@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Lutro is an experimental lua game framework for libretro following the LÖVE API. With Lutro, it is possible to easily create Lua games with no knowledge of C being necessary.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>LUTRO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>LÖVE API</text>
+		</text>			
+	</view>
+	
+</theme>

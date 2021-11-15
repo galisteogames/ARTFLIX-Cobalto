@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Toma capturas de pantalla de tus mejores juegos y mejores puntuaciones,
+luego muéstrales a tus amigos.
+¿Quién será el mejor jugador ...
+¡Dios bendiga a Retro Games!</text>
+		</text>
+
+						<text name="info2" extra="true" region="ES">
+			<text>Visor de Imágenes</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>		
+	</view>
+	
+	
+</theme>

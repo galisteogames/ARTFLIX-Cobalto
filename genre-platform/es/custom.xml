@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Plataforma es un género en el que el jugador corre y salta entre plataformas y obstáculos, enfrentándose a enemigos y recolectando objetos extra. El género tiene su aparición a principios de los 80, con algunos de sus ejemplos más conocidos: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Acción (Platformer)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

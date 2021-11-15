@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Neo-Geo Pocket est la première console portable de SNK. Elle est sortie au Japon fin 1998, et a été arrêtée en 1999, à cause de ventes plus faibles que prévu pour la Neo-Geo Pocket monochrome.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

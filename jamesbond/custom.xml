@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>A série James Bond se concentra em um agente fictício do Serviço Secreto Britânico criado em 1953 pelo escritor Ian Fleming, que o apresentou em doze romances e duas coleções de contos. Desde a morte de Fleming em 1964, oito outros autores escreveram romances ou novelizações autorizadas sobre Bond.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>A série James Bond se concentra em um agente fictício do Serviço Secreto Britânico criado em 1953 pelo escritor Ian Fleming, que o apresentou em doze romances e duas coleções de contos. Desde a morte de Fleming em 1964, oito outros autores escreveram romances ou novelizações autorizadas sobre Bond.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The James Bond series focuses on a fictional British Secret Service agent created in 1953 by writer Ian Fleming, who featured him in twelve novels and two short-story collections. Since Fleming's death in 1964, eight other authors have written authorised Bond novels or novelisations.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La serie de James Bond se centra en un agente ficticio del Servicio Secreto británico creado en 1953 por el escritor Ian Fleming, que lo presentó en doce novelas y dos colecciones de cuentos. Desde la muerte de Fleming en 1964, otros ocho autores han escrito novelas o novelizaciones de Bond autorizadas.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>La série James Bond se concentre sur un agent fictif des services secrets britanniques créé en 1953 par l'écrivain Ian Fleming, qui l'a présenté dans douze romans et deux recueils de nouvelles. Depuis la mort de Fleming en 1964, huit autres auteurs ont écrit des romans ou des romans Bond autorisés.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>James Bond</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1953</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Ian Fleming</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Moonlight le permite transmitir su colección de juegos de Steam desde su PC a su rpi. Moonlight es perfecto para el juego en cualquier lugar sin sacrificar la calidad de gráficos de tu computadora de juego.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Moonlight</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Case Western Reserve University</text>
+		</text>			
+	</view>
+
+</theme>

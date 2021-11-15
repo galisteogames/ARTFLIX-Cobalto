@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Os jogos RPG de ação formam um subgênero vagamente definido de videogames RPG que incorporam elementos de jogos de ação ou aventura, enfatizando a ação em tempo real onde o jogador tem controle direto sobre os personagens.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action RPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

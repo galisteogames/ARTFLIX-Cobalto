@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>El SuFami Turbo, a menudo comparado con el Aladdin Deck Enhancer, es un accesorio lanzado por Bandai para el sistema Super Famicom de Nintendo y fue lanzado en 1996.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SuFami Turbo</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+	
+	
+</theme>

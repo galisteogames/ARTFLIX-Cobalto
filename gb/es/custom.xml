@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game Boy (ゲームボーイ) es una serie de videoconsolas portátiles alimentadas con pilas (a excepción del modelo SP y Micro) y comercializadas por Nintendo. Es oficialmente la tercera consola más vendida del mundo.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game Boy</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

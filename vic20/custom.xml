@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O VIC-20 (na Alemanha, VC-20, no Japão, VIC-1001) é um computador doméstico de 8 bits que foi vendido pela Commodore Business Machines. O VIC-20 foi anunciado em 1980, aproximadamente três anos após o primeiro computador pessoal da Commodore, o PET.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Commodore VIC-20</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>	
+	</view>
+
+	
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>TIC-80 es una computadora de fantasía para hacer, jugar y compartir pequeños juegos. Hay herramientas integradas para el desarrollo: código, sprites, mapas, que es suficiente para crear un mini juego retro.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>TIC 80</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>TIC Team</text>
+		</text>	
+	</view>
+	
+	
+</theme>

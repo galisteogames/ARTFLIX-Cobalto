@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>También conocidos como juegos de computadora o juegos de computadora personales, son videojuegos que se juegan en una computadora personal en lugar de en una consola de videojuegos dedicada o en una máquina recreativa.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>PC</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+
+</theme>

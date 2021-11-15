@@ -1,0 +1,22 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sharp X68000, a menudo conocida como X68K, fue una computadora personal vendida únicamente en Japón. El primer modelo se lanzó en 1987, con un microprocesador Motorola 68000 a 10 megahercios.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sharp X68000</text>
+		</text>
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sharp Corporation</text>
+		</text>	
+	</view>
+	
+	
+</theme>

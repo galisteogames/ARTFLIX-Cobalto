@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>DAPHNE is a Free laserdisc game emulator that allows one to play laserdisc arcade games. Using Daphne, one can play various laserdisc arcade games such Dragon's Lair, Astron Belt and much more.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Daphne</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>199X</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Matt Ownby</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+
+	</view>
+</theme>

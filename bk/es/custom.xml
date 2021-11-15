@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Era una computadora doméstica de 16 bits lanzada por primera vez en 1984 (desarrollada en 1983), se basan en la К1801ВМ1 (CPU soviética compatible con LSI-11) y eran solo un diseño de computadora doméstica soviético "oficial" de producción en masa.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Electronika BK</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NPO Scientific Center</text>
+		</text>		
+	</view>
+</theme>

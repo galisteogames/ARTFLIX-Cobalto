@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga 1000, originalmente comercializado como Amiga, es la primera computadora personal lanzada por Commodore International en la línea Amiga. Con uno de los sistemas gráficos y de sonido más avanzados de su clase.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

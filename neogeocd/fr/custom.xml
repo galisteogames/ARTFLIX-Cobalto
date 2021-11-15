@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Le CD Neo Geo, bien que n'étant pas un blockbuster, possédait une bibliothèque de jeux enviable avec des conversions quasi-parfaites des versions arcade.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo CD</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

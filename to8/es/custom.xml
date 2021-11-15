@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Thomson TO8 es una computadora hogareña introducida por la compañía francesa Thomson SA en 1986. Sustituye a su predecesora, la Thomson TO7 / 70, y sigue siendo esencialmente totalmente compatible.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Thomson TO8</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Thomson SA</text>
+		</text>	
+	</view>
+	
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Solarus a été spécialement conçu pour les classiques 2D d'action-RPG cultes, tels que La légende de Zelda: un lien vers le passé et le secret de Mana sur Super Nintendo ou de Soleil sur Sega Megadrive / Genesis.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Solarus</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2006</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Solarus Team</text>
+		</text>	
+		
+				<text name="info5" extra="true">
+			<text>DÉVELOPPEUR:</text>
+		</text>
+	</view>
+	
+	
+</theme>

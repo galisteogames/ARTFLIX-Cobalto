@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	<text name="info1" extra="true">
+			<text>Era un periférico para Nintendo 64. Estaba conectado a través del puerto EXTension y permitía que el N64 usara discos magnéticos patentados de 64 MB para aumentar la capacidad de almacenamiento de datos.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64 DD</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo, Alps Electric</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Arcade is an electronic gaming device installed in entertainment establishments. It consists of an enclosure, CRT or monitor, power supply, game controller (s) and game system.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Arcade</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+		
+   <view name="detailed">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/cps1.png</path>
+         <zIndex>7</zIndex>
+      </image>
+   </view>
+</theme>

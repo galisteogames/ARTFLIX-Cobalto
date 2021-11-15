@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+				<text name="info1" extra="true">
+			<text>Dreamcast (ドリームキャスト) es la sexta y última consola de videojuegos producida por Sega. Fue desarrollada en cooperación con Hitachi y Microsoft. Dreamcast es la sucesora de Sega Saturn.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Dreamcast</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>			
+	</view>
+</theme>

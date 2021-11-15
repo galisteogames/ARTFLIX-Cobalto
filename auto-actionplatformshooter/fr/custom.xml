@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Le genre de plate-forme run-and-gun a été popularisé par Contra de Konami. Gunstar Heroes et Metal Slug sont également parmi les trois exemples les plus populaires de ce style. Caractérisé par un accent minimal sur le saut de plate-forme précis et un accent majeur sur le tir multidirectionnel.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Platformer Shooter)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

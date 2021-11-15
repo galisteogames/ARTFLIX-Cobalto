@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Vectrex, que usava o processador Motorola MC68A09, era o único videogame que apresentava gráficos vetoriais em seu monitor pré-integrado ao console, ao qual era possível conectar até dois controladores.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Vectrex</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>General Consumer Electronics</text>
+		</text>	
+	</view>
+
+	
+</theme>

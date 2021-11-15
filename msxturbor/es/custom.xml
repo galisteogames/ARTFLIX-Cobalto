@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MSX es el nombre de un estándar de microordenador doméstico de 8 bits comercializado durante los años 1980 y principio de los años 1990. Fue definido por Kazuhiko Nishi y presentado el 27 de junio de 1983 en Japón.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>MSX TurboR</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ASCII</text>
+		</text>			
+	</view>
+	
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Il s'agissait d'un ordinateur domestique 16 bits sorti pour la première fois en 1984 (développé en 1983), ils sont basés sur le К1801ВМ1 (processeur soviétique compatible LSI-11) et n'étaient qu'une conception d'ordinateur domestique soviétique "officielle" produite en série.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Electronika BK</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NPO Scientific Center</text>
+		</text>		
+	</view>
+</theme>

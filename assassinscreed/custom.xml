@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Criada por Patrice Désilets, Jade Raymond e Corey May, a série Assassin's Creed retrata uma luta milenar fictícia entre os Assassinos, que lutam pela paz com livre arbítrio, e os Templários, que desejam a paz por meio da ordem e do controle.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Criada por Patrice Désilets, Jade Raymond e Corey May, a série Assassin's Creed retrata uma luta milenar fictícia entre os Assassinos, que lutam pela paz com livre arbítrio, e os Templários, que desejam a paz por meio da ordem e do controle.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional millennia-old struggle between the Assassins, who fight for peace with free will, and the Templars, who desire peace through order and control.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Creada por Patrice Désilets, Jade Raymond y Corey May, la serie Assassin's Creed muestra una lucha ficticia milenaria entre los Assassins, que luchan por la paz con libre albedrío, y los Templarios, que desean la paz a través del orden y el control.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Créée par Patrice Désilets, Jade Raymond et Corey May, la série Assassin's Creed dépeint une lutte fictive vieille de plusieurs millénaires entre les Assassins, qui se battent pour la paix avec le libre arbitre, et les Templiers, qui désirent la paix par l'ordre et le contrôle.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Assassin's Creed</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2007</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Ubisoft</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

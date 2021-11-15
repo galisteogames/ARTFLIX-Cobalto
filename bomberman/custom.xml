@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma franquia de videogame desenvolvida originalmente pela Hudson Soft. O jogo original, também conhecido como Bakudan Otoko, foi lançado no Japão em julho de 1983 e desde então gerou várias sequências e spin-offs lançados em várias plataformas, bem como várias adaptações de anime e mangá.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma franquia de videogame desenvolvida originalmente pela Hudson Soft. O jogo original, também conhecido como Bakudan Otoko, foi lançado no Japão em julho de 1983 e desde então gerou várias sequências e spin-offs lançados em várias plataformas, bem como várias adaptações de anime e mangá.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a video game franchise originally developed by Hudson Soft. The original game, also known as Bakudan Otoko, was released in Japan in July 1983 and has since spawned multiple sequels and spin-offs released on numerous platforms, as well as several anime and manga adaptations.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una franquicia de videojuegos desarrollada originalmente por Hudson Soft. El juego original, también conocido como Bakudan Otoko, fue lanzado en Japón en julio de 1983 y desde entonces ha generado múltiples secuelas y spin-offs lanzados en numerosas plataformas, así como varias adaptaciones de anime y manga.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une franchise de jeux vidéo développée à l'origine par Hudson Soft. Le jeu original, également connu sous le nom de Bakudan Otoko, est sorti au Japon en juillet 1983 et a depuis engendré plusieurs suites et spin-offs publiés sur de nombreuses plateformes, ainsi que plusieurs adaptations d'anime et de manga.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Bomberman</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Shinichi Nakamoto</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

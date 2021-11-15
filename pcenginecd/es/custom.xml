@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Fue la primera consola que tenía la opción de un añadido de CD permitiendo obtener las mejoras por utilizar un sistema basado en CD: más memoria, costes más baratos y compatibilidad con Red Book.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>TurboGrafx-CD</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+		
+	
+
+	</view>
+
+</theme>

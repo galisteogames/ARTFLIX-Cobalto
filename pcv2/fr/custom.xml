@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Le Pocket Challenge V2 / ケ ッ ン ジ ジ V2 est un appareil d'apprentissage compatible WonderSwan. Il a été développé par la même société : Koto Laboratory.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>POCKET CHALLENGE V2</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Koto Laboratory</text>
+		</text>	
+	</view>
+
+	
+</theme>

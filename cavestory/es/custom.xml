@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Cave Story (洞窟 物語, Dōkutsu Monogatari?) Es un juego de computadora de acción y aventura (estilo "Metroidvania") creado por Daisuke Amaya en 2004. Fue desarrollado durante más de cinco años por Daisuke "Pixel" en su tiempo libre.</text>
+		</text>
+		
+		
+	<text name="info2" extra="true">
+			<text>Cave Story</text>
+		</text>	
+		
+		<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Daisuke "Pixel" Amaya</text>
+		</text>	
+
+	<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>
+	</view>
+
+</theme>

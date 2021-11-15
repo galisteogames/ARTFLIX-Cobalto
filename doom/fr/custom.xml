@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>PrBoom est une version multiplateforme du jeu de tir à la première personne 3D classique Doom d'id Software. Initialement écrit pour MS Windows, PrBoom a depuis été porté sur Linux et de nombreuses autres plates-formes.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>PR Boom</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+	
+
+	
+</theme>

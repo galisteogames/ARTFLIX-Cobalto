@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La plate-forme est un genre dans lequel le joueur court et saute entre les plates-formes et les obstacles, affrontant des ennemis et collectant des objets bonus. Le genre a fait son apparition au début des années 80, avec certains de ses exemples les plus connus : Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Platformer)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

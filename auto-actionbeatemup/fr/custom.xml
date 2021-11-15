@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Les beat 'em ups (également brawlers) sont des jeux électroniques basés sur le combat au corps à corps contre de multiples vagues d'ennemis. Les jeux traditionnels ont pris forme dans des scénarios rendus en deux dimensions avec de multiples plans de mouvement.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Beat'em Up)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

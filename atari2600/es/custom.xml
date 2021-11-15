@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+					<text name="info1" extra="true">
+			<text>Atari 2600 es una videoconsola lanzada al mercado en 1977, convirtiéndose en el primer sistema de videojuegos en tener gran éxito, e hizo popular los cartuchos intercambiables.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Atari 2600</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game and Watch sont des jeux électroniques de poche produits par la société Nintendo de 1980 à 1991, ils font également office de montres et de réveils. Vendus à 43,4 millions d'exemplaires à travers le monde.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game & Watch</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Commodore Amiga é uma família de computadores de 16/32 bits fabricados pela empresa canadense Commodore Business Machines nos anos 80 e 90. Ficaram famosos pelos recursos muito a frente dos rivais IBM-PC.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1200</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+</theme>

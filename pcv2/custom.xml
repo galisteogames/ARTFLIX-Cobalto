@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Pocket Challenge V2 / ポ ケ ッ レ ン ン ジ V2, é um dispositivo de aprendizagem compatível com WonderSwan. Foi desenvolvido pela mesma empresa: Koto Laboratory.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>POCKET CHALLENGE V2</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2002</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Koto Laboratory</text>
+		</text>	
+	</view>
+
+	
+</theme>

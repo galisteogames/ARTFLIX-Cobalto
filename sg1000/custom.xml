@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um console de videogame da terceira geração lançado pela Sega em 1983. O console de 8 bits não alcançou muito sucesso, porém, seu sucessor, o Master System, alcançou um grande sucesso no mercado dos games.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>SG-1000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	</view>
+	
+</theme>

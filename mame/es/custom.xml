@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Multiple Arcade Machine Emulator es un emulador de código abierto y gratuito diseñado para recrear el hardware de los sistemas de juegos de arcade en software en computadoras personales modernas y otras plataformas.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>M.A.M.E.</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nicola Salmoria</text>
+		</text>	
+
+
+						<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>
+	</view>
+</theme>

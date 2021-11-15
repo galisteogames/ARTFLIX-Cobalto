@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Um jogo stealth é um tipo de videogame em que o jogador usa principalmente a furtividade para evitar ou superar os oponentes. Os jogos do gênero normalmente permitem que o jogador não seja detectado, escondendo-se, esgueirando-se ou usando disfarces.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Ação (Stealth)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

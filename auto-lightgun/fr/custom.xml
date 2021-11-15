@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Un pistolet léger est un dispositif de pointage pour les ordinateurs et un dispositif de contrôle pour les jeux d'arcade et les jeux vidéo, généralement conçus pour ressembler à un pistolet.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Lightgun</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+				<text name="info5" extra="true">
+			<text>ALEKFULL ARTFLIX</text>
+		</text>
+	</view>
+</theme>

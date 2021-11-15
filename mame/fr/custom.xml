@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Multiple Arcade Machine Emulator, est un logiciel d'émulation pour PC dont le but est de reproduire fidèlement le fonctionnement des jeux et des systèmes d'arcade afin de préserver l'histoire du jeu vidéo.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>M.A.M.E.</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nicola Salmoria</text>
+		</text>	
+
+
+						<text name="info5" extra="true">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+</theme>

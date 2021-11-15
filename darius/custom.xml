@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Darius é um jogo de tiros bidimensional com rolagem horizontal ambientado em um futuro fictício. Exclusivamente entre os jogos de tiro, a tela do jogo é três vezes maior do que o tamanho convencional, e o gabinete do fliperama usa um arranjo de três telas para acomodá-lo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Darius is a two-dimensional horizontally scrolling shoot 'em up set in a fictional future. Uniquely among shoot 'em ups, the game's screen is three times wider than conventional size, and the arcade cabinet uses an arrangement of three screens to accommodate it.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Darius es un shoot 'em up bidimensional de desplazamiento horizontal ambientado en un futuro ficticio. Excepcionalmente entre los shoot 'em ups, la pantalla del juego es tres veces más ancha que el tamaño convencional, y el gabinete arcade usa una disposición de tres pantallas para acomodarlo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Darius est un shoot them up à défilement horizontal en deux dimensions se déroulant dans un futur fictif. Unique parmi les shoot'em ups, l'écran du jeu est trois fois plus large que la taille conventionnelle, et la borne d'arcade utilise un agencement de trois écrans pour l'accueillir.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Darius</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Junji Yarita</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+				<text name="info1" extra="true">
+			<text>Shoot 'em up is a subgenre of electronic shooting games. In a shoot 'em up, the player's character engages in a lone attack, often on a spaceship or aircraft, firing at several of enemies and avoiding their attacks.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Vertical Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+
+
+						<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+	</view>
+
+</theme>

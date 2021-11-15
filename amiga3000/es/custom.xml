@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga 3000, o A3000, es una computadora personal lanzada por Commodore en junio de 1990. Cuenta con una velocidad de procesamiento mejorada, una representación gráfica mejorada y una nueva revisión del sistema operativo. Es el sucesor del Amiga 2000.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 3000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

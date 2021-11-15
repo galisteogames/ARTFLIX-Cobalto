@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+
+				<text name="info1" extra="true">
+			<text>Magnavox Odyssey², conocida también como Philips Odyssey² y Videopac G7000, es una videoconsola lanzada en 1978 y Sucesora de la Magnavox Odyssey, la primera videoconsola de la historia.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Odyssey²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Magnavox, Philips</text>
+		</text>			
+	</view>
+
+	
+</theme>

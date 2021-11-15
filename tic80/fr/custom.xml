@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>TIC-80 est un ordinateur fantastique permettant de créer, de jouer et de partager de petits jeux. Il existe des outils intégrés pour le développement: code, sprites, cartes, ce qui est suffisant pour créer un mini jeu rétro.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>TIC 80</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>TIC Team</text>
+		</text>	
+	</view>
+	
+	
+</theme>

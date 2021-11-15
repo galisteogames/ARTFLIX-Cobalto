@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game Boy Color (ゲームボーイカラー), abrégé GBC, est la console de jeux vidéo portable succédant à la Game Boy. Créée par Nintendo, elle incorpore un écran couleur à peine plus grand que celui de la Game Boy.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game Boy Color</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

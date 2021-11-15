@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Atari Lynx fut la seule console portable d'Atari et la première portable avec un écran LCD couleur. Elle sortit en 1989, la même année que le Game Boy (monochrome) de Nintendo.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari Lynx</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma linha de consoles portáteis produzida pela Nintendo entre 1980 e 1991, criado pelo designer Gunpei Yokoi. Foi a segunda linha de aparelhos de jogos eletrônicos da Nintendo (a primeira foi o Color TV Game).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game & Watch</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

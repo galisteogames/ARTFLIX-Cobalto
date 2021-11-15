@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>A stealth game is a type of video game in which the player primarily uses stealth to avoid or overcome opponents. Games in the genre typically allow the player to remain undetected by hiding, sneaking, or using disguises.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Stealth)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

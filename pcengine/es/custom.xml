@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>PC Engine es una videoconsola que fue lanzada primeramente en Japón por NEC el 30 de octubre de 1987. El sistema fue lanzado en el mercado norteamericano a finales de agosto de 1989 con el nombre de TurboGrafx-16.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>TurboGrafx-16</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+		
+	
+	</view>
+
+</theme>

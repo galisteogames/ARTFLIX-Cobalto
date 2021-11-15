@@ -1,0 +1,20 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>L'Atari 7800 est une console de jeux vidéo 8-bit de troisième génération, conçue et commercialisée par le constructeur américain Atari. Elle est sortie début 1986 aux États-Unis.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

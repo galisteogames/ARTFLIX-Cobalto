@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Arcade es un dispositivo de juego electrónico instalado en establecimientos de entretenimiento. Consiste en un gabinete, CRT o monitor, fuente de alimentación, controlador (es) de juego y sistema de juego.</text>
+		</text>
+		
+		
+				<text name="info2" extra="true">
+			<text>Arcade</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+		
+
+</theme>

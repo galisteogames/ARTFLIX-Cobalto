@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Vectrex is a vector display-based home video game console that was developed by Western Technologies/Smith Engineering. It was licensed and distributed first by General Consumer Electronics (GCE).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Vectrex</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>General Consumer Electronics</text>
+		</text>	
+	</view>
+
+	
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Batman é um super-herói fictício que aparece nos quadrinhos americanos publicados pela DC Comics. O personagem foi criado pelo artista Bob Kane e pelo escritor Bill Finger, e apareceu pela primeira vez em Detective Comics # 27 em 1939.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="pt">
+			<text>Batman é um super-herói fictício que aparece nos quadrinhos americanos publicados pela DC Comics. O personagem foi criado pelo artista Bob Kane e pelo escritor Bill Finger, e apareceu pela primeira vez em Detective Comics # 27 em 1939.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="en">
+			<text>Batman is a fictional superhero appearing in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="es">
+			<text>Batman es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics. El personaje fue creado por el artista Bob Kane y el escritor Bill Finger, y apareció por primera vez en Detective Comics # 27 en 1939.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="fr">
+			<text>Batman est un super-héros fictif apparaissant dans des bandes dessinées américaines publiées par DC Comics. Le personnage a été créé par l'artiste Bob Kane et l'écrivain Bill Finger, et est apparu pour la première fois dans Detective Comics # 27 en 1939.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Batman</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1939</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bob Kane, Bill Finger</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>CRIADORES:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>CRIADORES:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>CREATORS:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>CREADORES:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>AUTEURS:</text>
+		</text>		
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

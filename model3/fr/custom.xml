@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Sega Model 3 est une carte d'arcade lancée par Sega en 1996. C'était le dernier produit du partenariat de Sega avec Lockheed Martin. Parmi les jeux les plus connus figurent Virtua Fighter 3, Sega Super GT, Virtua Striker 2 et Sega Rally 2.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Model 3</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+</theme>

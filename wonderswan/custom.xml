@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console portátil lançado pela Bandai em 1999 apenas no Japão, recebeu mais duas versões com melhorias, o WonderSwan Color e o Swan Crystal, juntos todos eles venderam 3,5 milhões de unidades.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>WonderSwan</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

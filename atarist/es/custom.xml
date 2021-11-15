@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+		<text name="info1" extra="true">
+			<text>Atari ST es una computadora doméstica presentada por la empresa Atari. Las letras "ST" es la abreviación de "Sixteen/Thirty-two" (en castellano, dieciséis/treinta y dos).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari ST</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

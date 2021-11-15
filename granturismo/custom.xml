@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma série de videogames de simulação de corrida desenvolvidos pela Polyphony Digital. Desenvolvidos para sistemas PlayStation, os jogos Gran Turismo destinam-se a emular a aparência e o desempenho de uma grande seleção de veículos, a maioria dos quais são reproduções licenciadas de automóveis do mundo real.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma série de videogames de simulação de corrida desenvolvidos pela Polyphony Digital. Desenvolvidos para sistemas PlayStation, os jogos Gran Turismo destinam-se a emular a aparência e o desempenho de uma grande seleção de veículos, a maioria dos quais são reproduções licenciadas de automóveis do mundo real.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of racing simulation video games developed by Polyphony Digital. Developed for PlayStation systems, Gran Turismo games are intended to emulate the appearance and performance of a large selection of vehicles, most of which are licensed reproductions of real-world automobiles.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de videojuegos de simulación de carreras desarrollados por Polyphony Digital. Desarrollados para sistemas PlayStation, los juegos de Gran Turismo están destinados a emular la apariencia y el rendimiento de una gran selección de vehículos, la mayoría de los cuales son reproducciones con licencia de automóviles del mundo real.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux vidéo de simulation de course développée par Polyphony Digital. Développés pour les systèmes PlayStation, les jeux Gran Turismo sont destinés à imiter l'apparence et les performances d'une large sélection de véhicules, dont la plupart sont des reproductions sous licence d'automobiles du monde réel.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Gran Turismo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1997</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Kazunori Yamauchi</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

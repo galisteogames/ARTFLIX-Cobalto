@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console portátil desenvolvido e fabricado pela Nintendo. É o sucessor do Game Boy Color, e um dos últimos produtos da linha. Seu codinome durante o processo de desenvolvimento foi Advance Game Boy.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Game Boy Advance</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

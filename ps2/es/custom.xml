@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Es una consola producida por Sony Interactive Entertainment. Fue lanzado el 4 de marzo de 2000 en Japón. Después de un lento primer año, la PlayStation 2 se ha convertido en la consola más vendida de la historia.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sony PlayStation 2</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>	
+	</view>
+</theme>

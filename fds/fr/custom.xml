@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Est un périphérique de la console de jeux vidéo Famicom. Vendu par Nintendo, il se place sous la console et utilise un format propriétaire de disquette permettant de stocker des jeux.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Famicom Disk System</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+
+
+	
+</theme>

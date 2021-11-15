@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga CD32 fue una consola de videojuego, siendo el primer basado en CD-ROM de 32 bits vendido en Europa occidental y Norteamérica. Fue lanzado en septiembre de 1993, en Europa, Australia, Canadá y Brasil.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga CD32</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>		
+	</view>
+</theme>

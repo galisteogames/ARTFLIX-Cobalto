@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Los Beat 'em ups (también luchadores) son juegos electrónicos basados ​​en el combate cuerpo a cuerpo contra múltiples oleadas de enemigos. Los juegos tradicionales tomaron forma en escenarios renderizados en dos dimensiones con múltiples planos de movimiento.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Acción (Beat'em Up)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Apple II (parfois orthographié Apple ][ ou Apple //) est l'un des premiers ordinateurs personnels au monde fabriqué à grande échelle1. Conçu par Steve Wozniak, commercialisé le 10 juin 1977 par Apple.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Apple II</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple Computer, Inc.</text>
+		</text>		
+	</view>
+</theme>

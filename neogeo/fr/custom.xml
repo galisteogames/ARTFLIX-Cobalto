@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Neo-Geo est un système de jeux vidéo pour borne d'arcade compatible JAMMA destiné aux salles d'arcade et créé par la société japonaise SNK en 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Os jogos de luta são caracterizados por combates corpo-a-corpo entre dois lutadores ou grupos de lutadores de força comparável, geralmente divididos em rodadas. Se vários jogadores estiverem envolvidos, os jogadores geralmente lutam entre si.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Ação (Luta)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

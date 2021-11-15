@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Le jeu de tir à la première personne (FPS) est un sous-genre de jeux vidéo de tir centré sur les armes à feu et d'autres combats basés sur des armes dans une perspective à la première personne, le joueur vivant l'action à travers les yeux du protagoniste.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (FPS)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

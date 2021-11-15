@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Also known as the A600, is a home computer that was introduced at the CeBIT show in March 1992. The A600 is Commodore International's final model based on the Motorola 68000 CPU.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Amiga 600</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore</text>
+		</text>		
+	</view>
+	
+   <view name="detailed">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/amiga.png</path>
+         <zIndex>7</zIndex>
+      </image>
+   </view>
+</theme>

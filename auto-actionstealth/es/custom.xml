@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Un juego de sigilo es un tipo de videojuego en el que el jugador utiliza principalmente el sigilo para evitar o vencer a los oponentes. Los juegos del género suelen permitir que el jugador no sea detectado escondiéndose, a escondidas o usando disfraces.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Acción (Stealth)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>PrBoom is a cross-platform version of the classic 3D first person shooter Doom from id Software. Originally written for Microsoft Windows, PrBoom has since been ported to Linux and many other platforms.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>PR Boom</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+	
+
+	
+</theme>

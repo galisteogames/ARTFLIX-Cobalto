@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La conception du ZX81 avait pour objectif de produire un ordinateur aux performances certes modestes, mais à un coût raisonnable. Cela passait d'abord par une réduction du nombre des composants et par l'optimisation de leur utilisation.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sinclair ZX81</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sinclair Research</text>
+		</text>	
+	</view>
+</theme>

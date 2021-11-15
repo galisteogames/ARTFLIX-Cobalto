@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Il s'agit d'une console de jeux vidéo domestique de troisième génération sortie en quantités limitées, et uniquement en Europe ; une sortie américaine comme Odyssey³ Command Center était prévue, mais elle n'a jamais eu lieu en raison du crash du jeu vidéo de 1983.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Philips Videopac+</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Philips</text>
+		</text>	
+	</view>
+
+	
+</theme>

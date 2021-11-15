@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The CD-ROM² System (シーディーロムロムシステム Shī Dī Romu Romu Shisutemu, pronounced "CD-ROM-ROM") is an add-on attachment for the TurboGrafx-16 that was released in Japan on December 4, 1988.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>TurboGrafx-CD</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+		
+	
+	</view>
+
+</theme>

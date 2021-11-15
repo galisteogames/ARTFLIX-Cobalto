@@ -1,0 +1,31 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>OpenBOR (Open Beats of Rage) est une suite open source du moteur Beats of Rage. Bien que Beats of Rage ait été conçu pour être un jeu indépendant, la conception modulaire des éléments et du moteur de jeu a permis aux utilisateurs finaux de remplacer leurs actifs.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Open BOR</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Senile Team</text>
+		</text>	
+
+
+
+						<text name="info5" extra="true">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+	
+
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Racing es un género de juegos electrónicos en el que el jugador participa en competencias de carreras con cualquier tipo de vehículo terrestre, incluidas motocicletas y quads. Hay alternativas de juego con vehículos acuáticos, aéreos e incluso espaciales.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Juegos de carrera</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

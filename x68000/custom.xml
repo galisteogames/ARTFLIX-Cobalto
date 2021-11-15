@@ -1,0 +1,22 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O Sharp X68000 é um computador lançado exclusivamente no Japão pela Sharp Corporation. O primeiro modelo foi lançado em 1987, com um CPU 68000 da Motorola de 10 MHz, 1MB de memória RAM e sem disco rígido.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sharp X68000</text>
+		</text>
+				<text name="info3" extra="true">
+			<text>1987</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sharp Corporation</text>
+		</text>	
+	</view>
+	
+	
+</theme>

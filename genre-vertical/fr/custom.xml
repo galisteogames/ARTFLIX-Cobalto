@@ -1,0 +1,34 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+	
+				<text name="info1" extra="true">
+			<text>Shoot 'em up est un sous-genre de jeux de tir électroniques. Dans un shoot 'em up, le personnage du joueur s'engage dans une attaque solitaire, souvent sur un vaisseau spatial ou un avion, tirant sur plusieurs ennemis et évitant leurs attaques.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Vertical Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+
+		</text>
+						<text name="info5" extra="true" >
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+
+</theme>

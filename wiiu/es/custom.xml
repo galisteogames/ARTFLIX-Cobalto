@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Wii U es una consola de videojuegos de Nintendo, el sucesor de Wii. Fue lanzado el 18 de noviembre de 2012 en América del Norte, el 30 de noviembre en Europa y el 8 de diciembre en Japón.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Nintendo Wii U</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2012</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

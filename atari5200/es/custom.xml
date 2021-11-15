@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Lanzado por Atari en 1982 para sustituir al Atari 2600. Debido a los serios problemas con su control, el producto fue considerado un fracaso comercial.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari 5200</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>		
+	</view>
+</theme>

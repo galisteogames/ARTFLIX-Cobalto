@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo Entertainment System it was initially released in Japan as the Family Computer. The best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>Nintendo Entertainment System</text>
+		</text>
+		
+	  
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>	
+</theme>

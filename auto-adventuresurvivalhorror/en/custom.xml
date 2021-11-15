@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Survival horror is a subgenre of action-adventure and horror video games that focuses on survival of the character as the game tries to frighten players with either horror graphics or scary ambience.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Survival Horror</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

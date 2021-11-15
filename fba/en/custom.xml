@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Is an emulator of arcade games, that is, it takes the program code, graphics data, etc., from an original arcade game and emulates the hardware to make the game run in it's original form.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FB Alpha</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FinalBurn Alpha Team</text>
+		</text>	
+
+
+						<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+	</view>
+
+</theme>

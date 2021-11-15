@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Es una consola de videojuegos doméstica de tercera generación lanzada en cantidades limitadas, y solo en Europa; se planeó un lanzamiento estadounidense como Odyssey³ Command Center, pero nunca se llevó a cabo debido al colapso del videojuego de 1983.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Philips Videopac+</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Philips</text>
+		</text>	
+	</view>
+
+	
+</theme>

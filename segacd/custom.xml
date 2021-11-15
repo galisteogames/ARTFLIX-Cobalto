@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Era um periférico que se ligava ao Mega Drive e disponibilizava assim a execução de jogos gravados em CD, novidade para a época. O acessório poderia ser acoplado a um 32X para alguns jogos.</text>
+		</text>
+		
+		
+				<text name="info2" extra="true">
+			<text>Sega CD</text>
+		</text>
+
+		
+				<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+	
+
+</view>
+
+</theme>

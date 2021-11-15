@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+				<text name="info1" extra="true">
+			<text>Es un emulador de juegos de arcade, es decir, toma el código del programa, los datos gráficos, etc. de un juego de arcade original y emula el hardware para hacer que el juego se ejecute en su forma original.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FB Alpha</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FinalBurn Alpha Team</text>
+		</text>	
+
+						<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>
+	</view>
+
+</theme>

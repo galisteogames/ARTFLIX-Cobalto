@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Is Commodore International's third-generation Amiga computer, aimed at the home computer market. It was launched on October 21, 1992, at a base price of £399 in the United Kingdom.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1200</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

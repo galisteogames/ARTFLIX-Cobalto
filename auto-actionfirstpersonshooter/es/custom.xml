@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>El juego de disparos en primera persona (FPS) es un subgénero de videojuegos de disparos centrados en el combate con armas y otras armas en una perspectiva en primera persona, en el que el jugador experimenta la acción a través de los ojos del protagonista.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Acción (FPS)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

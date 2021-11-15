@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Vectrex est une console de jeux vidéo 8 bits développée par Smith Engineering et distribuée par General Consumer Electric, et plus tard par MB (Milton Bradley Company) après le rachat de GCE.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Vectrex</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>General Consumer Electronics</text>
+		</text>	
+	</view>
+
+	
+</theme>

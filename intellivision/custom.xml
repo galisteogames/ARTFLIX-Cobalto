@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Intellivision I foi o primeiro console criado pela Mattel em 1980. Na época do seu lançamento, ele custava US$300. Ao todo, foram lançados 125 jogos para o console entre os anos de 1979 e 1989.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Intellivision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Mattel Electronics</text>
+		</text>			
+	</view>
+</theme>

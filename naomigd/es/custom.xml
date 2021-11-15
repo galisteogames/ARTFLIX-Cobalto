@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	<text name="info1" extra="true">
+			<text>La actualización GD Rom es compatible con Naomi y Naomi 2 a través del puerto opcional en la parte superior de la placa. Viene con una placa Dimm, muy similar a la placa ROM en un cartucho Naomi normal, pero tiene RAM en lugar de ROMS.</text>
+		</text>
+		
+
+		
+		<text name="info2" extra="true">
+			<text>NAOMI GD-ROM</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+	
+
+	
+</theme>

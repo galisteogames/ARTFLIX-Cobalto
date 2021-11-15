@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Es una consola con pantalla integrada, blanco y negro. Una de sus innovaciones, además de tener la pantalla incluida, son los gráficos basados en vectores, en vez de los indefinidos gráficos a pixeles.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Vectrex</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>General Consumer Electronics</text>
+		</text>	
+	</view>
+
+	
+</theme>

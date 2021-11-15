@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>WonderSwan (ワンダースワン) es una videoconsola portátil de 16 bits de la compañía Bandai que fue lanzada en Japón en 1999. Bandai siempre ha estado muy ligada al manga y al anime.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>WonderSwan</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

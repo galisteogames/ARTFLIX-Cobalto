@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
+		</text>
+
+
+				<text name="info2" extra="true">
+			<text>Sony
+PlayStation</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+
+	
+	</view>
+</theme>

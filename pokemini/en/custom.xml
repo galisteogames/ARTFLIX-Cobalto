@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Pokémon Mini is a portable console designed and manufactured by Nintendo. It is the smallest interchangeable cartridge gaming system produced by Nintendo.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Pokemon Mini</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+	
+	
+</theme>

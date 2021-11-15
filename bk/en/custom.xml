@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It was a 16-bit home computer first released in 1984 (developed in 1983), they are based on the К1801ВМ1 (Soviet LSI-11 compatible CPU) and were just mass production "official" Soviet home computer design.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Electronika BK</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NPO Scientific Center</text>
+		</text>		
+	</view>
+</theme>

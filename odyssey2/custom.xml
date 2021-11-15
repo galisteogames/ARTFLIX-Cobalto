@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Foi um console de vídeo games bastante popular nos anos 70 e 80. O console foi criado em 1978 pela empresa Magnavox / Philips como evolução do console da Magnavox anterior, o Magnavox Odyssey.</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Odyssey²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Magnavox, Philips</text>
+		</text>			
+	</view>
+
+	
+</theme>

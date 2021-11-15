@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Atari Jaguar foi um console de videogame lançado pela Atari em 1993. Ele foi desenvolvido para superar o Mega Drive e o Super Nintendo em poder de processamento.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari Jaguar</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>			
+	</view>
+</theme>

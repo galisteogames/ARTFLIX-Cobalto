@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Est un ordinateur personnel conçu par Commodore Business Machines Inc. Il fut la première machine vendue à plusieurs millions d'exemplaires (de 17 à 25 millions selon les estimations).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Commodore 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>		
+	</view>
+</theme>

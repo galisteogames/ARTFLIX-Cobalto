@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Here you will find all games of this style from your collection allocated in a single system. The games included here were automatically selected by the system, according to the game style.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Fighting Sports</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

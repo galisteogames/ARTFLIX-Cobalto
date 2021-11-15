@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Fue una videoconsola portátil de 8 bits producida por Atari. Fue lanzada en 1989, siendo la primera con LCD en color. Si bien era superior a la Game Boy y a la Game Gear, no tuvo demasiado éxito debido a su exagerado precio.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari Lynx</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>			
+	</view>
+</theme>

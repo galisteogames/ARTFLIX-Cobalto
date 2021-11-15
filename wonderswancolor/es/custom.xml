@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>WonderSwan Color (ワンダースワンカラー Wandāsuwan Karā?) es una videoconsola portátil diseñada por Bandai. Fue lanzada en Japón el 30 de diciembre de 1999, teniendo un éxito moderado.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>WonderSwan Color</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

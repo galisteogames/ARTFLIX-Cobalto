@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+				<text name="info1" extra="true">
+			<text>Is a home video game console developed by Sony Computer Entertainment. The console was the first of the PlayStation lineup of home video game consoles as part of the fifth generation of video game consoles.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Sony
+PlayStation</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>
+
+	
+	</view>
+</theme>

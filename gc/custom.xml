@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>È um console de videogame produzido pela empresa japonesa Nintendo. Sucessor do Nintendo 64, seu codinome durante a produção era Project Dolphin e seu código de modelo é DOL-001 (referência a Dolphin).</text>
+		</text>
+	
+		
+		<text name="info2" extra="true">
+			<text>GameCube</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

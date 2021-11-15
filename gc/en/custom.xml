@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Is a home video game console released by Nintendo in Japan and North America in -01 and Europe and Australia in 2002. The sixth generation console is the successor to the N64 and competed with PS2 and Xbox.</text>
+		</text>
+		
+		
+		<text name="info2" extra="true">
+			<text>GameCube</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

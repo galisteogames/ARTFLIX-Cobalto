@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="en">
+			<text>MSX spawned four generations: MSX (1983), MSX2 (1985), MSX2+ (1988), and MSX TurboR (1990). The first three were 8-bit computers based on the Z80 microprocessor, while the MSX TurboR was based on a custom 16-bit R800.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>MSX1</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ASCII</text>
+		</text>				
+	</view>
+	
+	
+</theme>

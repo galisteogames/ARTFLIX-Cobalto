@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>O SNES é o segundo home console da Nintendo. O console apresentou gráficos avançados e recursos de som em comparação com outros consoles na época. Considerado um dos melhores consoles da história.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Super Nintendo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>
+		
+		</view>
+</theme>

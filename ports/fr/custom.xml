@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>Plusieurs développeurs ont publié le code source sur bon nombre de leurs anciens titres, leur permettant d’exécuter des applications natives sur de nombreuses plates-formes alternatives, y compris Linux.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ports</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+	
+
+	
+</theme>

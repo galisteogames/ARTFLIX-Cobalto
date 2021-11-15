@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Moonlight vous permet de diffuser votre collection de jeux Steam depuis votre PC NVIDIA GFE vers votre rpi. Moonlight est parfait pour le jeu en déplacement sans sacrifier la qualité graphique de votre ordinateur de jeu.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Moonlight</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2013</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Case Western Reserve University</text>
+		</text>			
+	</view>
+
+</theme>

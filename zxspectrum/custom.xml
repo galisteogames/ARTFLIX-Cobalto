@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Baseado num processador Zilog Z80-A a 3,50 MHz com 16 KBytes de ROM, Sinclair ZX Spectrum foi um dos mais influentes microcomputadores europeus de 8 bits durante a década de 1980. Foi lançado em 1982.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>ZX Spectrum</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1982</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sinclair Research</text>
+		</text>	
+	</view>
+</theme>

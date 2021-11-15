@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma franquia de mídia baseada em uma série de videogames de luta produzida pela Tecmo e desenvolvida pela Team Ninja. É composto principalmente de jogos de luta 3D de ritmo acelerado que começaram com o Dead or Alive original em 1996.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma franquia de mídia baseada em uma série de videogames de luta produzida pela Tecmo e desenvolvida pela Team Ninja. É composto principalmente de jogos de luta 3D de ritmo acelerado que começaram com o Dead or Alive original em 1996.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a media franchise based on a fighting video game series produced by Tecmo and developed by Team Ninja. It is primarily composed of fast-paced 3D fighting games that begun with the original Dead or Alive in 1996.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una franquicia de medios basada en una serie de videojuegos de lucha producida por Tecmo y desarrollada por Team Ninja. Se compone principalmente de juegos de lucha en 3D de ritmo rápido que comenzaron con el Dead or Alive original en 1996.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une franchise média basée sur une série de jeux vidéo de combat produite par Tecmo et développée par Team Ninja. Il est principalement composé de jeux de combat 3D rapides qui ont commencé avec le premier Dead or Alive en 1996.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Dead or Alive</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tomonobu Itagaki</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

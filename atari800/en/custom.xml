@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Atari 800 was a microcomputer developed by Atari for the domestic audience, launched in conjunction with the Atari 400.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Atari 800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari, Inc.</text>
+		</text>		
+	</view>
+</theme>

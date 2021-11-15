@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Est un clone sous licence SG-1000 fabriqué par Tsukuda Original. Cela existe parce que l'intention initiale de Sega pour l'ordinateur SC-3000 était de permettre à d'autres fabricants de produire des ordinateurs compatibles.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Othello Multivision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Tsukuda Original</text>
+		</text>			
+	</view>
+
+</theme>

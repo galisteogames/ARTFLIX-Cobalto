@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Aquí encontrarás todos los juegos de este estilo de tu colección asignados en un solo sistema. Los juegos incluidos aquí fueron seleccionados automáticamente por el sistema, de acuerdo con el estilo de juego.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Trivia</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

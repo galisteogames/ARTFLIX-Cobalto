@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Neo-Geo Pocket Color (ou NGPC) est une console portable 16 bits conçue par SNK. La console sort le 16 mars 1999 au Japon, le 6 août 1999 en Amérique du Nord, et le 1er octobre 1999 dans certains pays d’Europe.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket Color</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

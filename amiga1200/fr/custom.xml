@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amiga 1200, ou A1200, était l'ordinateur Amiga de troisième génération de Commodore International, destiné au marché familial. il sortit en octobre 1992, au prix de 399 £ au Royaume-Uni et 599 $ aux États-Unis.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1200</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

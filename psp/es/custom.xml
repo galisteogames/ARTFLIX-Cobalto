@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>PSP es una videoconsola portátil de la multinacional de origen japonés, Sony Computer Entertainment, para videojuegos y multimedia. Se trata de la primera consola portátil a nivel mundial de Sony.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>PlayStation
+Portable</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2004</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sony Computer Entertainment</text>
+		</text>	
+	</view>
+</theme>
+

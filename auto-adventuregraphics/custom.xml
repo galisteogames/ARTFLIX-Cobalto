@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>São jogos eletrônicos cuja ênfase é focada no enredo e não na parte gráfica ou na ação. São caracterizados pela exploração dos cenários, pelos enigmas e quebra-cabeças (os chamados "puzzles"), pela interação com outros personagens e pelo foco na narrativa.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Aventura Gráfica</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

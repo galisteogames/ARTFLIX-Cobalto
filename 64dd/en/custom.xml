@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It was a peripheral for the Nintendo 64. It was plugged through the EXTension Port and allowed the N64 to use 64 MB proprietary magnetic disks to increase data storage capacity.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64 DD</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo, Alps Electric</text>
+		</text>		
+	</view>
+</theme>

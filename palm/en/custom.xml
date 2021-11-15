@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Palm, Inc. is a hardware and software manufacturing company founded in 1992. It was absorbed by U.S. Robotics Corp. 1995. In June 1997 Palm became a subsidiary of 3Com.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Palm</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Palm, Inc.</text>
+		</text>	
+	</view>
+	
+	
+</theme>

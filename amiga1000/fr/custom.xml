@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>L'Amiga 1000, également connu sous le nom d'A1000 et commercialisé à l'origine sous le nom d'Amiga, est le premier ordinateur personnel commercialisé par Commodore International dans la gamme Amiga.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga 1000</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore International</text>
+		</text>
+	</view>
+	
+
+</theme>

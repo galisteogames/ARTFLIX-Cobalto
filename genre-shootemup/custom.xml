@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Shoot 'em up (também conhecido como shmup ou STG) é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Ação (Shoot'em Up)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

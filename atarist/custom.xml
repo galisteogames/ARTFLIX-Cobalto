@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um computador doméstico/pessoal produzido pela Atari Corporation e vendido entre 1985 e o início da década de 1990. Oficialmente, ST significava "Sixteen/Thirty-two" ("Dezesseis/Trinta e dois").</text>
+		</text>
+
+		
+		<text name="info2" extra="true">
+			<text>Atari ST</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

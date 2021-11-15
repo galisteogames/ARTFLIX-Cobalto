@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Tiro em primeira pessoa (FPS) é um subgênero de videogames de tiro centrado em armas e outros combates baseados em armas em uma perspectiva de primeira pessoa, com o jogador experimentando a ação através dos olhos do protagonista.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Ação (FPS)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

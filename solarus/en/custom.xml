@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Solarus</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2006</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Solarus Team</text>
+		</text>	
+		
+				<text name="info5" extra="true">
+			<text>DEVELOPER:</text>
+		</text>
+	</view>
+	
+	
+</theme>

@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Fue el miembro más poderoso de esta serie producida por Apple Computer. En el momento de su lanzamiento, presentaba impresionantes gráficos en color (hasta 4096 colores) y sonido estéreo en 16 voces.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Apple IIGS</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple Computer, Inc.</text>
+		</text>		
+	</view>
+
+</theme>

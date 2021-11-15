@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+
+				<text name="info1" extra="true">
+			<text>Videopac est une console de jeux vidéo conçue par Magnavox, fabriquée par Philips et commercialisée à la fin des années 1970 et au début des années 1980 sous les marques Philips (Videopac/Odyssey).</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Odyssey²</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Magnavox, Philips</text>
+		</text>			
+	</view>
+
+	
+</theme>

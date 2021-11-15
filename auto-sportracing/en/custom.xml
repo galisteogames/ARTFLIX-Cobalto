@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Racing is a genre of electronic games in which the player participates in racing competitions with any type of land vehicle, including motorcycles and quads. There are game alternatives with water, air and even space vehicles.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Racing Games</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

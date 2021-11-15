@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true">
+			<text>Sega Model 3 is an arcade card launched by Sega in 1996. It was the last product of Sega's partnership with Lockheed Martin, using the Real3D division to design the graphics processor. Among the best known games are Virtua Fighter 3 and Sega Rally 2.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Model 3</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>MSX foi o nome dado a uma arquitetura de microcomputadores criada no Japão em 1983, que definia um padrão para os desenvolvedores de hardware. Foi desenvolvido por Kazuhiko Nishi, vice-presidente da ASCII.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>MSX TurboR</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ASCII</text>
+		</text>			
+	</view>
+	
+	
+</theme>

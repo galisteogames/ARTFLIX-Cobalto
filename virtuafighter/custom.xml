@@ -1,0 +1,53 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É uma série de jogos de luta. O Virtua Fighter original foi lançado em outubro de 1993 e recebeu quatro sequências principais e vários spin-offs. O primeiro jogo Virtua Fighter altamente influente é amplamente reconhecido como o primeiro jogo de luta 3D lançado.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>É uma série de jogos de luta. O Virtua Fighter original foi lançado em outubro de 1993 e recebeu quatro sequências principais e vários spin-offs. O primeiro jogo Virtua Fighter altamente influente é amplamente reconhecido como o primeiro jogo de luta 3D lançado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Is a series of fighting games. The original Virtua Fighter was released in October 1993 and has received four main sequels and several spin-offs. The highly influential first Virtua Fighter game is widely recognized as the first 3D fighting game released.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Es una serie de juegos de lucha. El Virtua Fighter original fue lanzado en octubre de 1993 y ha recibido cuatro secuelas principales y varios spin-offs. El primer juego Virtua Fighter, muy influyente, es ampliamente reconocido como el primer juego de lucha en 3D lanzado.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Est une série de jeux de combat. L'original Virtua Fighter est sorti en octobre 1993 et ​​a reçu quatre suites principales et plusieurs spin-offs. Le premier jeu Virtua Fighter très influent est largement reconnu comme le premier jeu de combat en 3D sorti.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Virtua Fighter</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1993</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Yu Suzuki, Seiichi Ishii</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>FB NEO es un proyecto de código abierto y está programado por un grupo de personas conocido como el Equipo FBA. FB Alpha está basado en el FinalBurn original de Dave.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>FinalBurn NEO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>FinalBurn NEO Team</text>
+		</text>	
+
+
+						<text name="info5" extra="true">
+			<text>DESARROLLADOR:</text>
+		</text>		
+	</view>
+	
+
+</theme>

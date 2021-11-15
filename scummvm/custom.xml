@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>ScummVM é um software/máquina virtual que visa oferecer suporte para jogos antigos da Lucas Arts. Tais jogos são incompatíveis com os sistemas operacionais de hoje pois fazem exigências exóticas sobre memória.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>ScummVM</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2001</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>ScummVM Team</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+	</view>
+	
+	
+</theme>

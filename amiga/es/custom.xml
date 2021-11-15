@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Amiga 600, también conocido como A600 y June Bug durante su desarrollo, fue un ordenador personal presentado en el CeBIT en Marzo de 1992 por Commodore International.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amiga</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Commodore Business Machines</text>
+		</text>	
+		
+	</view>
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Alien é uma franquia de mídia de terror / ação de ficção científica centrada na série de filmes que retrata a oficial Ellen Ripley (Sigourney Weaver) e suas batalhas com uma forma de vida extraterrestre, comumente referida como "o Alien" ou Xenomorfo.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PTBR">
+			<text>Alien é uma franquia de mídia de terror / ação de ficção científica centrada na série de filmes que retrata a oficial Ellen Ripley (Sigourney Weaver) e suas batalhas com uma forma de vida extraterrestre, comumente referida como "o Alien" ou Xenomorfo.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>Alien is a science-fiction horror/action media franchise centered on the film series which depicts warrant officer Ellen Ripley (Sigourney Weaver) and her battles with an extraterrestrial lifeform, commonly referred to as "the Alien" or Xenomorph.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Alien es una franquicia de ciencia ficción de terror / acción centrada en la serie de películas que representa a la suboficial Ellen Ripley (Sigourney Weaver) y sus batallas con una forma de vida extraterrestre, comúnmente conocida como "el Alien" o Xenomorph.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Alien est une franchise médiatique d'horreur/action de science-fiction centrée sur la série de films qui dépeint l'adjudant Ellen Ripley (Sigourney Weaver) et ses combats avec une forme de vie extraterrestre, communément appelée "l'Alien" ou Xenomorph.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Aliens</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1979</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Dan O'Bannon</text>
+		</text>			
+
+		<text name="info5" extra="true">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+		
+				<text name="info5" extra="true"  lang="pt">
+			<text>DESENVOLVEDOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="en">
+			<text>DEVELOPER:</text>
+		</text>
+						<text name="info5" extra="true" lang="es">
+			<text>DESARROLLADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="fr">
+			<text>DÉVELOPPEUR:</text>
+		</text>		
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+</theme>

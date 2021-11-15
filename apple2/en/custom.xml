@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products. It was introduced in 1977 by Jobs and was the first consumer product sold by Apple Computer, Inc.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Apple II</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1977</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Apple Computer, Inc.</text>
+		</text>		
+	</view>
+</theme>

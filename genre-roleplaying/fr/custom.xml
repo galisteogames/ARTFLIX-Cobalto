@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Le jeu de rôle est un genre de jeu vidéo dans lequel le joueur contrôle les actions d'un personnage (ou de plusieurs membres du groupe) immergé dans un monde bien défini, impliquant généralement une forme de développement de personnage via l'enregistrement de statistiques.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>RPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

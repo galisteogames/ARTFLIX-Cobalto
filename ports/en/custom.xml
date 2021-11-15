@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>Several developers have released the source code to many of their legacy titles, allowing them to be run as native applications on many alternative platforms, including Linux.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Ports</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+	
+
+	
+</theme>

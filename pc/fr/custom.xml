@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Les jeux PC, également connus sous le nom de jeux informatiques ou de jeux informatiques personnels, sont des jeux vidéo joués sur un ordinateur personnel plutôt que sur une console de jeu vidéo ou une machine à arcade dédiée.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>PC</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>	
+	</view>
+
+</theme>

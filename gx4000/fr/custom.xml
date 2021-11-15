@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>La GX4000 est une console de jeu vidéo fabriquée par Amstrad. C'était la tentative de courte durée de la société d'entrer sur le marché des consoles de jeux. La console est sortie en Europe en 1990.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amstrad GX4000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Amstrad</text>
+		</text>			
+	</view>
+	
+</theme>

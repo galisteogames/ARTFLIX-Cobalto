@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>La course est un genre de jeux électroniques dans lequel le joueur participe à des compétitions de course avec tout type de véhicule terrestre, y compris les motos et les quads. Il existe des alternatives de jeu avec des véhicules aquatiques, aériens et même spatiaux.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Course automobile</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

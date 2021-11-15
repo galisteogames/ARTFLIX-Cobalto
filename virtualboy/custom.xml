@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console portátil lançado em agosto de 1995 e se tornou o maior fracasso da Nintendo. Com um processador de 32 bits e duas telas no formato de um óculos apoiado sobre um tripé, pouco móvel para um 'portátil'.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Virtual Boy</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1995</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>	
+	</view>
+</theme>

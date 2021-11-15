@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>ZX81, lanzado por Sinclair Research en 1981, fue el computador de menor precio de la época y se vendía en la versión de kit por 49,95 libras esterlinas, y por 69,95 montado. Este era la versión mejorada del ZX80.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sinclair ZX81</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1981</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sinclair Research</text>
+		</text>	
+	</view>
+</theme>

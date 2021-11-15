@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um console de videogame lançado pela Atari em junho de 1986. Foi desenvolvido para substituir o Atari 5200 e restabelecer a supremacia da Atari em relação a Intellivision e Colecovision.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Atari 7800</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Atari Corporation</text>
+		</text>		
+	</view>
+</theme>

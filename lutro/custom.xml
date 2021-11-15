@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Lutro é uma engine lua experimental baseada na arquitetura libretro usando a LÖVE API como referência. Com a Lutro, é possível criar facilmente jogos Lua sem o conhecimento de C ser necessário.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>LUTRO</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>LÖVE API</text>
+		</text>			
+	</view>
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>L'horreur de survie est un sous-genre de jeux vidéo d'action-aventure et d'horreur qui se concentre sur la survie du personnage alors que le jeu essaie d'effrayer les joueurs avec des graphismes d'horreur ou une ambiance effrayante.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Survival Horror</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

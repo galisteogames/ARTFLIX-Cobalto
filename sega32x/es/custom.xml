@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Mega Drive 32X, también llamada Sega 32X (en América) o Super 32X (en Japón), es un periférico lanzado por Sega en 1994, que ofrecía una ampliación de 32 bits para la consola de 16 bits Sega Mega Drive.</text>
+		</text>
+
+<text name="info2" extra="true">
+			<text>Mega Drive 32X</text>
+		</text>
+						
+		
+				<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega Corporation</text>
+		</text>	
+		
+
+
+	</view>
+</theme>

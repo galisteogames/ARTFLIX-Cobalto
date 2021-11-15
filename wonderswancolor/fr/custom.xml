@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Elle est une amélioration de la WonderSwan originale. Elle sort le 30/12/2000 au Japon et rencontre un assez grand succès, prenant jusqu'à 8 % du marché japonais, dominé par Nintendo et ses différentes Game Boy.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>WonderSwan Color</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>2000</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Bandai</text>
+		</text>	
+	</view>
+</theme>

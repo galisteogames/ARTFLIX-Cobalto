@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Fue lanzado en el continente europeo en noviembre de 1989 bajo el nombre de Turbografx, pero era muy difícil encontrar la consola ya que fueron lanzadas pocas unidades en ese mercado.</text>
+		</text>
+		
+			<text name="info2" extra="true">
+			<text>NEC SuperGrafx</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1989</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>	
+	</view>
+</theme>

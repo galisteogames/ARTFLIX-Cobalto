@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		
+				<text name="info1" extra="true">
+			<text>Neo Geo Pocket Color (también conocida por su abreviatura NGPC) es la sucesora de la Neo Geo Pocket. Esta videoconsola portátil fue lanzada por SNK en el año 1999 en Japón, Estados Unidos y Europa.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket Color</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>É um videogame feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa no final de 1984. Um sucessor do Cassette Vision, ele competia com o Family Computer da Nintendo e o SG-1000 da Sega linha no Japão.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Super Cassette Vision</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Epoch Co.</text>
+		</text>
+
+	</view>
+	
+	
+</theme>

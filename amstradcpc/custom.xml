@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Amstrad CPC foi uma série computadores pessoais de 8 bits produzidos pela Amstrad durante a década de 1980 e início de 1990. CPC significa Colour Personal Computer ("Computador Colorido Pessoal").</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Amstrad CPC</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1984</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Amstrad</text>
+		</text>		
+	</view>
+</theme>

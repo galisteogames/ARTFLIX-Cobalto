@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Spectravideo, ou SVI, est un fabricant américain de micro-ordinateurs créé par Harry Fox sous le nom de "SpectraVision" en 1981. À l’origine, la société fabriquait des jeux vidéo pour Atari 2600 et VIC-20.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Spectravideo</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1983</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Spectravideo International</text>
+		</text>	
+	</view>
+	
+	
+</theme>

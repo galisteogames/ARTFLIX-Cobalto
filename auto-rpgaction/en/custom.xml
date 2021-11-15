@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Action role-playing games  form a loosely defined sub-genre of role-playing video games that incorporate elements of action or action-adventure games, emphasizing real-time action where the player has direct control over characters.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action RPG</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

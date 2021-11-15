@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Es una línea de 59 consolas portátiles de videojuegos fabricadas por Nintendo y creadas por Gunpei Yokoi de 1980 a 1991. Cada una de ellas poseía un único juego con pantalla LCD, y tenía además reloj y alarma.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Game & Watch</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1980</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

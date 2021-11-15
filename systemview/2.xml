@@ -1,0 +1,113 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+
+	<image name="art" extra="true">
+		<linearSmooth>true</linearSmooth>
+		<size>1 1</size>
+		<pos>0 0</pos>
+		<origin>0 0</origin>
+		<color>959595FF</color>
+	</image> 	
+
+     <carousel name="systemcarousel">
+        <type>horizontal</type>
+        <pos>-0.765 -0.02</pos>
+        <size>1.84 1</size>
+        <logoScale>1.00</logoScale>
+        <logoSize>0.20 0.20</logoSize>
+        <color>00000000</color>
+        <maxLogoCount>8</maxLogoCount>
+        <zIndex>82</zIndex>
+        <logoAlignment>bottom</logoAlignment>
+      </carousel>
+	  
+	  <image name="overlay" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../assets/paneloverlay.png</path>
+		 <zIndex>70</zIndex>
+      </image>
+
+      <image name="logo">
+	  	 <path>./../assets/logos/panels/$system.jpg</path>
+	  </image>
+
+	<image name="sublogo" extra="true">
+		<path>./../assets/logos/$system.png</path>
+		<path>./../assets/logos/$system.svg</path>
+		<pos>0.07 0.20</pos>
+		<maxSize>0.34 0.16</maxSize>
+		<zIndex>80</zIndex>
+	</image>
+	  
+	  <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../_inc/arts/$system.jpg</path>
+		 <zIndex>60</zIndex>
+      </image>
+	  
+	<text name="systemInfo">
+	    <alignment>left</alignment>
+		<pos>0.067 0.518</pos>
+         <fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+	     <fontSize>0.016</fontSize>
+	     <color>d3d3d3</color>
+		 <zIndex>95</zIndex>
+    </text>
+	  
+	<text name="info1" extra="true">
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.0225</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.285 0</size>
+		<pos>0.067 0.369</pos>
+		<zIndex>82</zIndex>
+      </text>	
+
+	<text name="info2" extra="true">
+		<fontPath>./../_inc/fonts/polan.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.0388</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<forceUppercase>true</forceUppercase>
+		<size>0.46 0.32</size>
+		<pos>2.047 2.119</pos>
+		<zIndex>82</zIndex>
+      </text>
+
+	<text name="info3, info4, info5" extra="true">
+		<pos>2 2</pos>
+		<zIndex>0</zIndex>
+      </text>	  
+	  
+	<helpsystem name="help">
+		<fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+         <fontSize>0.016</fontSize>
+         <pos>0.055 0.970</pos>
+		</helpsystem>  
+
+</view>
+
+   <view name="screen">
+      <controllerActivity name="controllerActivity">
+         <pos>0.03 0.025</pos>
+         <size>0.085 0.025</size>
+         <!--<horizontalAlignment>right</horizontalAlignment>-->
+         <itemSpacing>0.003</itemSpacing>
+         <imagePath>./../_inc/gamepad.svg</imagePath>
+         <color>FFFFFF80</color>
+         <activityColor>A0A0FFC0</activityColor>
+         <hotkeyColor>FFA0A0C0</hotkeyColor>
+      </controllerActivity>
+   </view>
+
+</theme>

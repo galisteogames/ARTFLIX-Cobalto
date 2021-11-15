@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It is a monochrome handheld console, originally from Hong Kong, and was introduced in 1992 as a competitor to the Game Boy. It was manufactured by several companies with different names in various countries in the world such as QuickShot Supervision, Travell Mate, etc.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Watara Supervision</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1992</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Watara</text>
+		</text>			
+	</view>
+</theme>

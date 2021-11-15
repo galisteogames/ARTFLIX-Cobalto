@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Un jeu furtif est un type de jeu vidéo dans lequel le joueur utilise principalement la furtivité pour éviter ou vaincre ses adversaires. Les jeux du genre permettent généralement au joueur de ne pas être détecté en se cachant, en se faufilant ou en utilisant des déguisements.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Stealth)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>

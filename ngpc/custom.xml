@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Tecnicamente, o Neo Geo Pocket Color é igual ao Neo Geo Pocket tradicional, sendo as únicas diferenças o ecrã, as cores e a possibilidade de ser ligado ao Dreamcast, da Sega. O console foi descontinuado em 2001.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket Color</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1999</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

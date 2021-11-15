@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+				<text name="info1" extra="true">
+			<text>Neo Geo Pocket es una consola portátil de SNK. Fue lanzada en Japón hacia 1998, y descontinuada en 1999, para dar paso a la Neo Geo Pocket Color, debido a las bajas ventas del sistema monocromo.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo Pocket</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1998</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>

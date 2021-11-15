@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Platform is a genre in which the player runs and jumps between platforms and obstacles, facing enemies and collecting bonus objects. The genre has its emergence in the early 80's, with some of its best known examples: Super Mario Bros., Sonic the Hedgehog, Donkey Kong.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Action (Platformer)</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>19XX</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>		
+	</view>
+</theme>
