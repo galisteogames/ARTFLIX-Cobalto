@@ -27,8 +27,53 @@
 		<linearSmooth>true</linearSmooth>
       </image>
 
+	<video name="md_video" extra="true" ifSubset="randomvid:yes">
+		<path>{random}</path> 
+		<pos>0.105 0.695</pos>
+		<maxSize>0.25 0.25</maxSize>
+		<origin>0 0</origin>
+		<delay>0.2</delay>
+		<showSnapshotNoVideo>false</showSnapshotNoVideo>
+		<showSnapshotDelay>false</showSnapshotDelay>
+		<zIndex>50</zIndex>		<color>858585FF</color>
+         </video>
 
- 
+		
+      <text name="systemInfoEx"  ifSubset="toptext:yes">
+            <text>{binding:favorites} ${GamesFavs}  |  {binding:gamesPlayed} ${NumberPlayed}</text>
+            <storyboard repeat="2">
+               <animation property="opacity" from="1" to="1" duration="1" mode="linear"/>
+               <animation property="opacity" from="1" to="0" begin="2500" duration="350" mode="easeOut"  />
+               <animation property="opacity" from="0" to="1" begin="7100" duration="350" mode="easeOut"/>
+               <animation property="opacity" from="1" to="0" begin="10000" duration="350" mode="easeOut"  />
+               <animation property="opacity" from="0" to="1" begin="14100" duration="350" mode="easeOut"/>
+            </storyboard>             
+      </text>	
+
+      <text name="systemInfoEx2"  ifSubset="toptext:yes">
+            <text>${theme.mostplayed} {binding:mostPlayed} </text>
+            <storyboard repeat="2">
+               <animation property="opacity" from="0" to="0" duration="1" mode="linear"/>
+               <animation property="opacity" from="0" to="1" begin="2600" duration="350" mode="easeOut"/>
+               <animation property="opacity" from="1" to="0" begin="7000" duration="350" mode="easeOut"  />
+               <animation property="opacity" from="0" to="1" begin="10100" duration="350" mode="easeOut"/>
+               <animation property="opacity" from="1" to="0" begin="14000" duration="350" mode="easeOut"  />
+            </storyboard>             
+      </text>
+
+      <text name="systemInfoEx, systemInfoEx2" extra="true">
+         <alignment>left</alignment>
+         <pos>0.144 0.015</pos>
+         <size>0.398 0.055</size>
+         <color>FFFFFF</color>
+		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+	      <fontSize>0.014</fontSize>
+		<glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <backgroundColor>ff000000</backgroundColor>    
+         <zIndex>60</zIndex>	           
+      </text>
+	  
 	<text name="info1" extra="true">
 		<fontPath>./../_inc/fonts/texgyre.otf</fontPath>
 		<color>FFFFFF</color>

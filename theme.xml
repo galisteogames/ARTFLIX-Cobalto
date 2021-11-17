@@ -27,9 +27,13 @@ Theme prohibited for commercial use
    <include subset="MainBGColor" name="Purple" displayName="${huepurple}">./colorsets/purple.xml</include>
    <include subset="animcarousel" name="Default" displayName="${default}"/>
    <include subset="animcarousel" name="Animated Wheel Carousel" displayName="${animcarou}">./effects/animatedcarousel.xml</include>
-      <include subset="animcarousel" name="Animated Wheel Carousel 2" displayName="${animwcarou}">./effects/animatedwcarousel.xml</include>
+   <include subset="animcarousel" name="Animated Wheel Carousel 2" displayName="${animwcarou}">./effects/animatedwcarousel.xml</include>
    <include subset="animbg" name="Default" displayName="${default}"/>
    <include subset="animbg" name="Animated Background" displayName="${animbg}">./effects/animatedbg.xml</include>
+   <include subset="toptext" name="no" displayName="${no}"/>
+   <include subset="toptext" name="yes" displayName="${yes}"/>
+   <include subset="randomvid" name="yes" displayName="${yes}"/>
+   <include subset="randomvid" name="no" displayName="${no}"/>    
    <include subset="shader" name="None" displayName="${none}"/>
    <include subset="shader" name="ScanLines">./effects/scanliness.xml</include>
    <include subset="shader" name="Crt">./effects/crtt.xml</include>
@@ -43,6 +47,10 @@ Theme prohibited for commercial use
    <include subset="shader" name="VHS Glitch (Heavy)" displayName="${svhsgl}">./effects/vhs.xml</include>
    <include subset="shader" name="CRT Glitch (Heavy)" displayName="${scrtgl}">./effects/crtvideo.xml</include>
    <include subset="tveffect" name="None" displayName="${none}" appliesTo="HCoinSpin,CoinOps Details"/>
+   <include subset="bganim" name="no" displayName="${no}" appliesTo="HCoinSpin,CoinOps Details"/>
+   <include subset="bganim" name="yes" displayName="${yes}" appliesTo="HCoinSpin,CoinOps Details"/>
+   <include subset="wheelanim" name="yes" displayName="${yes}" appliesTo="HCoinSpin,CoinOps Details"/>
+   <include subset="wheelanim" name="no" displayName="${no}" appliesTo="HCoinSpin,CoinOps Details"/>
    <include subset="tveffect" name="Glitch" appliesTo="HCoinSpin,CoinOps Details">./effects/vhscoin.xml</include>
    <include subset="tveffect" name="CRT" appliesTo="HCoinSpin,CoinOps Details">./effects/crtcoin.xml</include>
    <include subset="ShowTopMarquee" name="Yes" displayName="${yes}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/wmarquee.xml</include>
@@ -52,7 +60,9 @@ Theme prohibited for commercial use
    <include subset="CoinOpsDefault" name="Arcade Only" displayName="${copsarc}" appliesTo="HCoinSpin,CoinOps Details">./colorsets/arcade.xml</include>
    <variables> <subset.MainBGColor>Main Background Color</subset.MainBGColor> <subset.CoinOpsDefault>CoinOps Default System</subset.CoinOpsDefault>
    <subset.tveffect>TV Effect CoinOps View</subset.tveffect> <subset.ShowTopMarquee>Show Top Marquee in CoinOps Views</subset.ShowTopMarquee>
-   <subset.animcarousel>Animated Wheel Carousel</subset.animcarousel>  <subset.animbg>Animated Background</subset.animbg>
+   <subset.animcarousel>Animated Wheel Carousel</subset.animcarousel>  <subset.animbg>Animated Background</subset.animbg> 
+   <subset.toptext>Top Text</subset.toptext>   <subset.bganim>Animated BG</subset.bganim> <subset.wheelanim>Animated Wheel</subset.wheelanim>
+   <subset.randomvid>Random Video</subset.randomvid>
    </variables>
 
   <variables lang="pt">
@@ -111,6 +121,14 @@ Theme prohibited for commercial use
 	<animcarou>Logos Animados</animcarou>
 	<animwcarou>Carrossel com somente Logo Principal</animwcarou>	
 	<animbg>Animação na Imagem de Fundo</animbg>
+	<theme.mostplayed>Mais Jogado:</theme.mostplayed>
+    <GamesNumber>Jogos</GamesNumber>
+    <GamesFavs>Favoritos</GamesFavs>
+	<NumberPlayed>Jogados</NumberPlayed>
+	<subset.toptext>Exibir dados dos jogos do sistema</subset.toptext>
+	<subset.bganim>Animação na imagem de fundo dos jogos</subset.bganim>
+	<subset.wheelanim>Animação nos logos dos jogos</subset.wheelanim>
+	<subset.randomvid>Video Aleatório na tela de Sistemas</subset.randomvid>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagens de Fundo</subset.colorset>
     <subset.iconset>Icones do Menu</subset.iconset>
@@ -179,7 +197,15 @@ Theme prohibited for commercial use
 	<snocarou>Sans Carrousel Vertical</snocarou>
 	<animcarou>Logos Animés</animcarou>
 	<animwcarou>Carrousel avec logo principal uniquement</animwcarou>	
-	<animbg>Animation d'image d'arrière-plan</animbg>	
+	<animbg>Animation d'image d'arrière-plan</animbg>
+	<theme.mostplayed>Le plus Joué:</theme.mostplayed>
+    <GamesNumber>Jeux</GamesNumber>
+    <GamesFavs>Favoris</GamesFavs>
+	<NumberPlayed>Joué</NumberPlayed>
+	<subset.toptext>Afficher les données de jeu du système</subset.toptext>
+	<subset.bganim>Animation dans les arrière-plans du jeu</subset.bganim>
+	<subset.wheelanim>Animation dans les logos du jeu</subset.wheelanim>
+	<subset.randomvid>Vidéo aléatoire dans l'écran Systèmes</subset.randomvid>
     <subset.systemview>Vues systemes</subset.systemview>
     <subset.colorset>Images darriere-plan</subset.colorset>
     <subset.iconset>Icones de Menu</subset.iconset>
@@ -250,6 +276,14 @@ Theme prohibited for commercial use
 	<animcarou>Logos Animados</animcarou>
 	<animwcarou>Carrusel con logotipo principal solamente</animwcarou>	
 	<animbg>Animación de imagen de fondo</animbg>	
+	<theme.mostplayed>Más jugado:</theme.mostplayed>
+    <GamesNumber>Juegos</GamesNumber>
+    <GamesFavs>Favoritos</GamesFavs>
+	<NumberPlayed>Jugado</NumberPlayed>
+	<subset.toptext>Mostrar datos del juego del sistema</subset.toptext>
+	<subset.bganim>Animación en fondos de juegos</subset.bganim>
+	<subset.wheelanim>Animación en los logotipos del juegou</subset.wheelanim>
+	<subset.randomvid>Vídeo aleatorio en la pantalla de sistemas</subset.randomvid>
     <subset.systemview>Vistas de Sistemas</subset.systemview>
     <subset.colorset>Imagenes de Fondo</subset.colorset>
     <subset.iconset>Iconos de Menu</subset.iconset>
@@ -989,8 +1023,16 @@ Theme prohibited for commercial use
          <centerSelection>true</centerSelection>
          <scrollLoop>true</scrollLoop>
 	  <imageSource>marquee</imageSource>
-
       </imagegrid>
+	  
+	   <imagegrid name="gamegrid" ifSubset="wheelanim:yes">
+		 <storyboard repeatAt="1">
+				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+		 </storyboard>
+       </imagegrid>
+	  
       <gridtile name="default">
          <padding>64 16</padding>
          <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
@@ -1053,6 +1095,10 @@ Theme prohibited for commercial use
          <zIndex>0</zIndex>
       </image>
 
+      <rating name="md_rating">
+         <pos>2 2</pos>
+      </rating>
+
       <image name="md_marquee">
          <pos>0.285 0.1</pos>
          <maxSize>0.25 0.15</maxSize>
@@ -1063,6 +1109,12 @@ Theme prohibited for commercial use
          <size>1 1</size>
          <pos>0.15 0</pos>
          <zIndex>5</zIndex>	
+      </image>
+
+	   <image name="md_fanart" ifSubset="bganim:yes">
+		 <storyboard repeatAt="1">
+		<animation property="x" from="0" to="0.56" begin="200" duration="33000" mode="linear" autoreverse="true" repeat="forever"/>	
+        </storyboard>
       </image>
 
       <image name="md_image">
@@ -1085,7 +1137,7 @@ Theme prohibited for commercial use
       </image>
 
       <text name="md_name">
-         <pos>0.15 0.86</pos>
+         <pos>0.15 0.84</pos>
          <size>0.39 0.05</size>
 		 <fontSize>0.030</fontSize>
          <color>FFFFFF</color>
@@ -1096,19 +1148,8 @@ Theme prohibited for commercial use
          <zIndex>36</zIndex>
       </text>
 
-      <text name="md_description">
-         <pos>0.55 0.88</pos>
-         <size>0.28 0.100</size>
-         <fontSize>0.020</fontSize>
-         <color>FFFFFF</color>
-         <glowColor>00000016</glowColor>
-         <glowSize>1</glowSize>
-         <alignment>left</alignment>
-         <fontPath>./assets/Circular Std Book.ttf</fontPath>
-      </text>
-
-  <text name="md_developer">
-         <pos>0.15 0.88</pos>
+  <text name="md_publisher">
+         <pos>0.15 0.84</pos>
          <size>0.22 0.102</size>
          <fontSize>0.020</fontSize>
          <color>539ac8</color>
@@ -1117,6 +1158,104 @@ Theme prohibited for commercial use
          <fontPath>./assets/Circular Std Book.ttf</fontPath>
          <alignment>left</alignment>
     </text>
+
+      <text name="md_description">
+         <pos>0.15 0.90</pos>
+         <size>0.374 0.078</size>
+         <fontSize>0.018</fontSize>
+         <color>FFFFFF</color>
+		 <glowColor>00000016</glowColor>
+         <glowSize>1</glowSize>
+         <alignment>left</alignment>
+         <fontPath>./_inc/fonts/texgyre.otf</fontPath>
+      </text>
+
+      <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_genre, md_lbl_players">
+         <color>FFFFFF</color>
+         <fontPath>./_inc/fonts/texgyre.otf</fontPath>
+         <fontSize>0.018</fontSize>
+      </text>
+	  <text name="md_developer, md_publisher, md_genre, md_players, md_releasedate">
+         <color>E8A500</color>
+         <fontPath>./_inc/fonts/texgyre.otf</fontPath>
+         <fontSize>0.018</fontSize>
+      </text>
+
+      <text name="md_lbl_releasedate">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.865</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <datetime name="md_releasedate">
+	     <pos>0.65 0.865</pos>
+         <size>0.15 0.018</size>
+		 <alignment>left</alignment>
+      </datetime>
+	  
+      <text name="md_lbl_players">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.895</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_players">
+         <pos>0.65 0.895</pos>
+         <size>0.15 0.018</size>
+      </text>
+	  
+      <text name="md_lbl_genre">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.925</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_genre">
+         <pos>0.65 0.925</pos>
+         <size>0.17 0.018</size>
+      </text>
+	  <text name="md_lbl_developer">
+	     <forceUppercase>1</forceUppercase>
+         <pos>0.55 0.955</pos>
+         <size>0.15 0.018</size>
+      </text>
+      <text name="md_developer">
+         <pos>0.65 0.955</pos>
+         <size>0.17 0.018</size>
+      </text>
+
+      <rating name="md_rating">
+         <pos>0.88 0.85</pos>
+      </rating>
+
+		<image name="md_flag">
+			<origin>0 0.5</origin>
+			<pos>0.815 0.955</pos>
+			<maxSize>0.01 0.05</maxSize>
+			<color>FFFFFFFF</color>
+			<zIndex>150</zIndex>
+		</image>
+
+		<image name="md_manual,md_nomanual">
+			<path>./_inc/images/book.png</path>
+			<pos>0.82 0.875</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nomanual">
+			<color>80808040</color>
+		</image>
+
+		<image name="md_savestate,md_nosavestate">
+			<origin>0.5 0.5</origin>
+			<path>./_inc/icons/SaveState.png</path>
+			<pos>0.82 0.915</pos>
+			<maxSize>0.02 0.02</maxSize>
+			<color>666666</color>
+			<zIndex>150</zIndex>
+		</image>
+		<image name="md_nosavestate">
+			<color>80808030</color>
+		</image>
 	
       <imagegrid name="gamegrid">
          <pos>0.72 0</pos>
@@ -1129,6 +1268,9 @@ Theme prohibited for commercial use
          <scrollLoop>true</scrollLoop>
 	     <imageSource>marquee</imageSource>
          <zIndex>8</zIndex>
+      </imagegrid>
+
+      <imagegrid name="gamegrid" ifSubset="wheelanim:yes">
 		 <storyboard repeatAt="1">
 				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
 				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
@@ -1198,7 +1340,7 @@ Theme prohibited for commercial use
 	  
       <image name="art" extra="true">
          <zIndex>5</zIndex>
-         <pos>-0.47 0</pos>
+         <pos>-0.50 0</pos>
       </image>
 
       <image name="art2" extra="true">
@@ -1206,8 +1348,12 @@ Theme prohibited for commercial use
       </image>
 
       <image name="logo">
-         <zIndex>0</zIndex>
-      </image>
+	  	 <path>./assets/logos/${system.theme}.png</path>
+		 <path>./assets/logos/${system.theme}.svg</path>
+         <pos>0.865 0.882</pos>
+         <size>0.11 0</size>
+		 <zIndex>15</zIndex>
+	  </image>
 
       <image name="md_marquee">
          <pos>0.285 0.04</pos>
@@ -1220,6 +1366,9 @@ Theme prohibited for commercial use
          <pos>0.15 0</pos>
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
+      </image>
+
+	   <image name="md_fanart" ifSubset="bganim:yes">
 		 <storyboard repeatAt="1">
 		<animation property="x" from="0" to="0.56" begin="200" duration="33000" mode="linear" autoreverse="true" repeat="forever"/>	
         </storyboard>
