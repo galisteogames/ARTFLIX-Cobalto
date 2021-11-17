@@ -173,8 +173,8 @@
 
    <view name="screen">
       <controllerActivity name="controllerActivity">
-         <pos>0.03 0.025</pos>
-         <size>0.085 0.025</size>
+         <pos>0.145 0.057</pos>
+         <size>0.065 0.016</size>
          <!--<horizontalAlignment>right</horizontalAlignment>-->
          <itemSpacing>0.003</itemSpacing>
          <imagePath>./../_inc/gamepad.svg</imagePath>
