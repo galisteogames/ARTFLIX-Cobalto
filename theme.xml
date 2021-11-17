@@ -30,8 +30,8 @@ Theme prohibited for commercial use
    <include subset="animcarousel" name="Animated Wheel Carousel 2" displayName="${animwcarou}">./effects/animatedwcarousel.xml</include>
    <include subset="animbg" name="Default" displayName="${default}"/>
    <include subset="animbg" name="Animated Background" displayName="${animbg}">./effects/animatedbg.xml</include>
-   <include subset="toptext" name="no" displayName="${no}"/>
    <include subset="toptext" name="yes" displayName="${yes}"/>
+   <include subset="toptext" name="no" displayName="${no}"/>
    <include subset="randomvid" name="yes" displayName="${yes}"/>
    <include subset="randomvid" name="no" displayName="${no}"/>    
    <include subset="shader" name="None" displayName="${none}"/>
