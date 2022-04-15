@@ -4,7 +4,7 @@
 
 # ARTFLIX-Cobalto
 
-Novo tema ALEKFULL para EmuELEC
+Novo tema ALEKFULL para EmuELEC / Batocera
 
 Criado por Fagner (AlekFull), exclusivo para as imagens Galisteo Cobalto. ARTFLIX-Cobalto foi inspirado na interface do ArtFlix. Foco nesse tema é dar espaço para as artes brilharem, capas dos jogos ou os personagens icônicos de cada sistema.
 
