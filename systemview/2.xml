@@ -68,6 +68,7 @@
       </text>
 
       <image name="logo">
+	  	 <path>./../assets/logos/panels/custom-collections.jpg</path>
 	  	 <path>./../assets/logos/panels/$system.jpg</path>
 	  </image>
 

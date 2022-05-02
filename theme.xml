@@ -62,7 +62,8 @@ Theme prohibited for commercial use
    <subset.tveffect>TV Effect CoinOps View</subset.tveffect> <subset.ShowTopMarquee>Show Top Marquee in CoinOps Views</subset.ShowTopMarquee>
    <subset.animcarousel>Animated Wheel Carousel</subset.animcarousel>  <subset.animbg>Animated Background</subset.animbg> 
    <subset.toptext>Top Text</subset.toptext>   <subset.bganim>Animated BG</subset.bganim> <subset.wheelanim>Animated Wheel</subset.wheelanim>
-   <subset.randomvid>Random Video</subset.randomvid>
+   <subset.randomvid>Random Video</subset.randomvid> <theme.mostplayed>Most Played:</theme.mostplayed>   <GamesNumber>Games</GamesNumber>
+    <GamesFavs>Favorites</GamesFavs> <NumberPlayed>Played</NumberPlayed>
    </variables>
 
   <variables lang="pt">
@@ -276,6 +277,10 @@ Theme prohibited for commercial use
         <snocarou>Kein vertikales Karussell</snocarou>
         <subset.systemview>Systemansichten</subset.systemview>
         <subset.colorset>Hintergrundbilder</subset.colorset>
+		<theme.mostplayed>Meistgespielt:</theme.mostplayed>
+		<GamesNumber>Spiele</GamesNumber>
+		<GamesFavs>Favoriten</GamesFavs>
+		<NumberPlayed>Gespielt</NumberPlayed>		
         <subset.iconset>Menüsymbole</subset.iconset>
         <subset.shader>Design-Shader</subset.shader>
         <subset.music>Systemmusik</subset.music>

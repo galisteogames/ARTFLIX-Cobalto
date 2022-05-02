@@ -25,6 +25,7 @@
       </image>
 
       <image name="logo">
+	  	 <path>./../assets/logos/nx/custom-collections.jpg</path>
 	  	 <path>./../assets/logos/nx/$system.jpg</path>
 	  </image>
 	  
