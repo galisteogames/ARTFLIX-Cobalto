@@ -3,56 +3,43 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>É construído em torno de uma série de jogos de ação e aventura focados em várias encarnações do príncipe homônimo do Irã antigo e medieval. Os jogos foram desenvolvidos e publicados por várias empresas diferentes.</text>
+			<text>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version, and uses SDL.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
-			<text>É construído em torno de uma série de jogos de ação e aventura focados em várias encarnações do príncipe homônimo do Irã antigo e medieval. Os jogos foram desenvolvidos e publicados por várias empresas diferentes.</text>
+		<text name="info1" extra="true"  lang="PT">
+			<text>SDLPoP é uma port de código aberto do Prince of Persia que roda nativamente em Windows e Linux. É baseado em uma desmontagem da versão DOS e usa SDL.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="EN">
-			<text>It is built around a series of action-adventure games focused on various incarnations of the eponymous Prince from ancient and medieval Iran. The games have been developed and published by several different companies.</text>
+			<text>SDLPoP is an open-source port of Prince of Persia that runs natively on Windows and Linux. It is based on a disassembly of the DOS version, and uses SDL.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="ES">
-			<text>Se basa en una serie de juegos de acción y aventuras centrados en varias encarnaciones del Príncipe epónimo del Irán antiguo y medieval. Los juegos han sido desarrollados y publicados por varias empresas diferentes.</text>
+			<text>SDLPoP es un puerto de código abierto de Prince of Persia que se ejecuta de forma nativa en Windows y Linux. Se basa en un desmontaje de la versión DOS y utiliza SDL.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="FR">
-			<text>Il est construit autour d'une série de jeux d'action-aventure axés sur diverses incarnations du prince éponyme de l'Iran antique et médiéval. Les jeux ont été développés et publiés par plusieurs sociétés différentes.</text>
+			<text>SDLPoP est un port open-source de Prince of Persia qui s'exécute nativement sur Windows et Linux. Il est basé sur un désassemblage de la version DOS, et utilise SDL.</text>
 		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>SDLPoP ist eine Open-Source-Portierung von Prince of Persia, die nativ auf Windows und Linux läuft. Es basiert auf einer Disassemblierung der DOS-Version und verwendet SDL.</text>
+		</text>
+
 		
 		<text name="info2" extra="true">
-			<text>Prince of Persia</text>
+			<text>SDLPoP</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>1989</text>
+			<text>20XX</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Jordan Mechner</text>
+			<text>NagyD</text>
 		</text>			
-
-
-		<text name="info5" extra="true">
-			<text>DESENVOLVEDOR:</text>
-		</text>
-		
-				<text name="info5" extra="true"  lang="pt">
-			<text>DESENVOLVEDOR:</text>
-		</text>
-						<text name="info5" extra="true" lang="en">
-			<text>DEVELOPER:</text>
-		</text>
-						<text name="info5" extra="true" lang="es">
-			<text>DESARROLLADOR:</text>
-		</text>
-						<text name="info5" extra="true" lang="fr">
-			<text>DÉVELOPPEUR:</text>
-		</text>		
 	</view>
-
+	
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
          <path>./../assets/coinops/default.png</path>
@@ -67,4 +54,5 @@
          <zIndex>7</zIndex>
       </image>
 	</customView>
+	
 </theme>

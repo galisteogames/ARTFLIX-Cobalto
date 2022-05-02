@@ -3,36 +3,60 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+			<text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based in Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
-			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+		<text name="info1" extra="true"  lang="PT">
+			<text>Taito Corporation é uma empresa japonesa especializada em videogames, brinquedos, fliperamas e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como a Taito Trading Company, importando vodka, máquinas de venda automática e jukeboxes para o Japão.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="EN">
-			<text>Here you will find and organize all games from that collection / category of your collection in a single system. The games included here can be selected automatically by the system or manually, according to various selected criteria.</text>
+			<text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based in Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="ES">
-			<text>Aquí encontrará y organizará todos los juegos de esa colección / categoría de su colección en un solo sistema. Los juegos incluidos aquí pueden ser seleccionados automáticamente por el sistema o manualmente, de acuerdo con varios criterios seleccionados.</text>
+			<text>Taito Corporation es una empresa japonesa que se especializa en videojuegos, juguetes, gabinetes de juegos y centros de juegos, con sede en Shinjuku, Tokio. La empresa fue fundada por Michael Kogan en 1953 como Taito Trading Company, importando vodka, máquinas expendedoras y máquinas de discos a Japón.</text>
 		</text>
 		
-				<text name="info1" extra="true" lang="FR">
-			<text>Ici, vous trouverez et organiserez tous les jeux de cette collection / catégorie de votre collection dans un seul système. Les jeux inclus ici peuvent être sélectionnés automatiquement par le système ou manuellement, selon divers critères sélectionnés.</text>
+		<text name="info1" extra="true" lang="FR">
+			<text>Taito Corporation est une société japonaise spécialisée dans les jeux vidéo, les jouets, les bornes d'arcade et les centres de jeux, basée à Shinjuku, Tokyo. La société a été fondée par Michael Kogan en 1953 sous le nom de Taito Trading Company, important de la vodka, des distributeurs automatiques et des juke-box au Japon.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Taito Corporation ist ein japanisches Unternehmen mit Sitz in Shinjuku, Tokio, das sich auf Videospiele, Spielwaren, Arcade-Schränke und Spielzentren spezialisiert hat. Das Unternehmen wurde 1953 von Michael Kogan als Taito Trading Company gegründet und importierte Wodka, Verkaufsautomaten und Jukeboxen nach Japan.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>$system</text>
+			<text>Taito</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>20XX</text>
+			<text>1953</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Artflix Cobalto</text>
-		</text>			
+			<text>Michael Kogan</text>
+		</text>	
+
+				<text name="info5" extra="true">
+			<text>FOUNDER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>		
 	</view>
 	
 		<customView name="HCoinSpin">

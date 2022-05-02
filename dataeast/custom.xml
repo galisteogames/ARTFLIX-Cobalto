@@ -3,36 +3,61 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+			<text>Also abbreviated as DECO, it was a Japanese video game and electronic engineering company. It was in operation from 1976 to 2003, and has released 150 games. Its headquarters took place in Suginami, Tokyo. Its US subsidiary, Data East USA, was headquartered in San José.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
-			<text>Aqui você encontrará e poderá organizar todos os jogos dessa coleção/ categoria do seu acervo em um único sistema. Os jogos inclusos aqui podem ser selecionados automaticamente pelo sistema ou manualmente, de acordo com vários critérios estabelecidos.</text>
+		<text name="info1" extra="true"  lang="PT">
+			<text>Também abreviada como DECO, era uma empresa japonesa de videogames e engenharia eletrônica. Ela esteve em operação de 1976 a 2003, e lançou 150 jogos. A sua sede ficava em Suginami, Tóquio. A sua subsidiária estado-unidense, a Data East USA, era sediada em San José.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="EN">
-			<text>Here you will find and organize all games from that collection / category of your collection in a single system. The games included here can be selected automatically by the system or manually, according to various selected criteria.</text>
+			<text>Also abbreviated as DECO, it was a Japanese video game and electronic engineering company. It was in operation from 1976 to 2003, and has released 150 games. Its headquarters took place in Suginami, Tokyo. Its US subsidiary, Data East USA, was headquartered in San José.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="ES">
-			<text>Aquí encontrará y organizará todos los juegos de esa colección / categoría de su colección en un solo sistema. Los juegos incluidos aquí pueden ser seleccionados automáticamente por el sistema o manualmente, de acuerdo con varios criterios seleccionados.</text>
+			<text>También abreviado como DECO, era una empresa japonesa de videojuegos e ingeniería electrónica. Estuvo en funcionamiento desde 1976 hasta 2003 y ha lanzado 150 juegos. Su sede tuvo lugar en Suginami, Tokio. Su filial estadounidense, Data East USA, tenía su sede en San José.</text>
 		</text>
 		
 				<text name="info1" extra="true" lang="FR">
-			<text>Ici, vous trouverez et organiserez tous les jeux de cette collection / catégorie de votre collection dans un seul système. Les jeux inclus ici peuvent être sélectionnés automatiquement par le système ou manuellement, selon divers critères sélectionnés.</text>
+			<text>Également abrégé en DECO, il s'agissait d'une société japonaise de jeux vidéo et d'ingénierie électronique. Il a fonctionné de 1976 à 2003 et a sorti 150 jeux. Son siège social a eu lieu à Suginami, Tokyo. Sa filiale américaine, Data East USA, avait son siège social à San José.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+				<text>Auch als DECO abgekürzt, war es ein japanisches Unternehmen für Videospiele und Elektrotechnik. Es war von 1976 bis 2003 in Betrieb und hat 150 Spiele veröffentlicht. Der Hauptsitz befand sich in Suginami, Tokio. Die US-Tochter Data East USA hatte ihren Hauptsitz in San José.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>$system</text>
+			<text>Data East</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>20XX</text>
+			<text>1976</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Artflix Cobalto</text>
-		</text>			
+			<text>Tetsuo Fukuda</text>
+		</text>	
+
+		<text name="info5" extra="true">
+			<text>FOUNDER:</text>
+		</text>
+
+				<text name="info5" extra="true"  lang="PT">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="EN">
+			<text>FOUNDER:</text>
+		</text>
+						<text name="info5" extra="true" lang="ES">
+			<text>FUNDADOR:</text>
+		</text>
+						<text name="info5" extra="true" lang="FR">
+			<text>FONDATEUR:</text>
+		</text>
+		<text name="info5" extra="true" lang="DE">
+			<text>GRÜNDER:</text>
+		</text>
+		
 	</view>
 	
 		<customView name="HCoinSpin">
