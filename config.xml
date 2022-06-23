@@ -14,11 +14,13 @@
 	<include subset="iconset" name="Xbox One">./iconsets/xboxone.xml</include>
 	<include subset="iconset" name="Switch">./iconsets/switch.xml</include>
 
+	<include subset="systemview" name="Bello" displayName="${srandbello}">./systemview/7.xml</include>
 	<include subset="systemview" name="Cobalto" displayName="${scobalto}">./systemview/1.xml</include>
 	<include subset="systemview" name="Cobalto Panel" displayName="${scobpanel}">./systemview/2.xml</include>
 	<include subset="systemview" name="NX" displayName="${snxview}">./systemview/3.xml</include>
 	<include subset="systemview" name="New NX" displayName="${snewnxviw}">./systemview/4.xml</include>
 	<include subset="systemview" name="Random Video Background" displayName="${svrandvid}">./systemview/5.xml</include>
 	<include subset="systemview" name="Random Fanart Background" displayName="${srandbbg}">./systemview/6.xml</include>
+
 	
 </theme>

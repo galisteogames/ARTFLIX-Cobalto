@@ -79,6 +79,10 @@
 			<text>ENTWICKLER:</text>
 		</text>
 
+		<image name="logo, sublogo" ifSubset="systemview:Bello">
+		<path>./../assets/logos/genre-racing.svg</path>
+		</image>
+
 	</view>
 
 	<customView name="HCoinSpin">

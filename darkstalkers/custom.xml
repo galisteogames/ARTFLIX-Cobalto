@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>A série se passa em um universo pastiche de terror gótico e apresenta um estilo gráfico de desenho animado altamente estilizado. Ele apresenta personagens baseados em vários tipos de monstros (os "darkstalkers" titulares) ou em seus caçadores, que lutam entre si.</text>
+			<text>The series is set in a pastiche gothic horror universe and features a highly stylized, cartoonish graphic style. It features characters based on either various kinds of monsters (the titular "darkstalkers") or their hunters, who are all engaging in combat against each other.</text>
 		</text>
 
-		<text name="info1" extra="true"  lang="PTBR">
+		<text name="info1" extra="true"  lang="PT">
 			<text>A série se passa em um universo pastiche de terror gótico e apresenta um estilo gráfico de desenho animado altamente estilizado. Ele apresenta personagens baseados em vários tipos de monstros (os "darkstalkers" titulares) ou em seus caçadores, que lutam entre si.</text>
 		</text>
 		
@@ -20,6 +20,10 @@
 		
 				<text name="info1" extra="true" lang="FR">
 			<text>La série se déroule dans un univers d'horreur gothique pastiche et présente un style graphique très stylisé et caricatural. Il présente des personnages basés sur différents types de monstres (les "darkstalkers" titulaires) ou leurs chasseurs, qui se battent tous les uns contre les autres.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Die Serie spielt in einem Pastiche-Gothic-Horror-Universum und zeichnet sich durch einen stark stilisierten, cartoonartigen Grafikstil aus. Es enthält Charaktere, die entweder auf verschiedenen Arten von Monstern oder ihren Jägern basieren, die alle gegeneinander kämpfen.</text>
 		</text>
 		
 		<text name="info2" extra="true">
@@ -37,7 +41,7 @@
 	
 		<customView name="HCoinSpin">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
+         <path>./../assets/coinops/coinops.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>
@@ -45,7 +49,7 @@
 
 	<customView name="CoinOps Details">
       <image name="art3" extra="true">
-         <path>./../assets/coinops/default.png</path>
+         <path>./../assets/coinops/coinops.png</path>
          <zIndex>7</zIndex>
       </image>
 	</customView>

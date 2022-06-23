@@ -11,7 +11,7 @@
 		<storyboard>
 		<animation property="y" from="-0.2" begin="0" duration="200" mode="linear"/>
 		<animation property="scale" from="1" to="1.2" begin="200" duration="15000" mode="linear" autoreverse="false"/>
-		<animation property="x" from="0" to="-0.1" begin="200" duration="9000" mode="linear"/>	
+		<animation property="x" from="0" to="-0.1" begin="200" duration="15000" mode="EaseOut"/>	
         </storyboard>
 	</image>
 	</view>

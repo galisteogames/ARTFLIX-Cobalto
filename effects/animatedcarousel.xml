@@ -9,6 +9,11 @@
 				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
 				<animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
 			</storyboard>
+			
+			<storyboard event="scroll">
+				<animation property="opacity" from="0" to="0.6" duration="0" mode="Linear"/>
+			</storyboard>
+			
 		</image>
 	</view>
 </theme>
