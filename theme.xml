@@ -1165,6 +1165,15 @@ Theme prohibited for commercial use
          <imageSource>marquee</imageSource>
 		 <scrollSound>./assets/sounds/scroll01.wav</scrollSound>
       </imagegrid>
+	  
+	  <imagegrid name="gamegrid" ifSubset="wheelanim:yes">
+		 <storyboard repeatAt="1">
+		 <animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+		 <animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+		 <animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+		 </storyboard>
+       </imagegrid>
+	  
       <gridtile name="default">
          <padding>64 16</padding>
          <backgroundCenterColor>FFFFFF00</backgroundCenterColor>
@@ -1237,6 +1246,12 @@ Theme prohibited for commercial use
          <size>1 1</size>
          <pos>0.45 0</pos>
          <zIndex>5</zIndex>
+      </image>
+
+	   <image name="md_fanart" ifSubset="bganim:yes">
+		 <storyboard repeatAt="1">
+		<animation property="x" from="0.40" to="0.48" begin="200" duration="13000" mode="linear" autoreverse="true" repeat="forever"/>	
+        </storyboard>
       </image>
 
       <image name="md_image">
@@ -1431,6 +1446,14 @@ Theme prohibited for commercial use
          <zIndex>8</zIndex>
       </imagegrid>
 
+      <imagegrid name="gamegrid" ifSubset="wheelanim:yes">
+		 <storyboard repeatAt="1">
+				<animation property="opacity" to="1" begin="0" duration="0" mode="linear"/>
+				<animation property="scale" from="1" to="1.05" begin="0" duration="1000" mode="easeOut"/>
+				<animation property="scale" from="1.05" to="1" begin="1000" duration="1000" mode="easeOut"/>
+		 </storyboard>
+      </imagegrid>
+
       <image name="overbar" extra="true">
          <path>./assets/overbar.png</path>
          <origin>0 0</origin>
@@ -1520,6 +1543,12 @@ Theme prohibited for commercial use
          <pos>0.45 0</pos>
          <zIndex>5</zIndex>
 		 <linearSmooth>true</linearSmooth>
+      </image>
+
+	   <image name="md_fanart" ifSubset="bganim:yes">
+		 <storyboard repeatAt="1">
+		<animation property="x" from="0.40" to="0.48" begin="200" duration="13000" mode="linear" autoreverse="true" repeat="forever"/>	
+        </storyboard>
       </image>
 
       <image name="md_image">
