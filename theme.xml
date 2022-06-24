@@ -32,6 +32,10 @@ Theme prohibited for commercial use
    <include subset="animbg" name="Animated Background2" displayName="${animbg2}">./effects/animatedbg.xml</include>
    <include subset="toptext" name="yes" displayName="${yes}"/>
    <include subset="toptext" name="no" displayName="${no}"/>
+   <include subset="belloitem" name="None" displayName="${none}"/>
+   <include subset="belloitem" name="consoles" displayName="${bconsoles}"/>
+   <include subset="belloitem" name="covers" displayName="${basicGridName}"/>
+   <include subset="belloitem" name="video" displayName="${srandvideo}"/>
    <include subset="randomvid" name="yes" displayName="${yes}"/>
    <include subset="randomvid" name="no" displayName="${no}"/>    
    <include subset="shader" name="None" displayName="${none}"/>
@@ -63,7 +67,7 @@ Theme prohibited for commercial use
    <subset.animcarousel>Animated Wheel Carousel</subset.animcarousel>  <subset.animbg>Animated Background</subset.animbg> 
    <subset.toptext>Top Text</subset.toptext>   <subset.bganim>Animated BG</subset.bganim> <subset.wheelanim>Animated Wheel</subset.wheelanim>
    <subset.randomvid>Random Video</subset.randomvid> <theme.mostplayed>Most Played:</theme.mostplayed>   <GamesNumber>Games</GamesNumber>
-    <GamesFavs>Favorites</GamesFavs> <NumberPlayed>Played</NumberPlayed>
+    <GamesFavs>Favorites</GamesFavs> <NumberPlayed>Played</NumberPlayed>   <subset.belloitem>Show item in Bello view</subset.belloitem>
    </variables>
 
   <variables lang="pt">
@@ -142,6 +146,7 @@ Theme prohibited for commercial use
 	<subset.ShowTopMarquee>Mostrar Marquee Superior nas Vistas CoinOps</subset.ShowTopMarquee>
 	<subset.animcarousel>Logos Animados no Carrossel</subset.animcarousel>
 	<subset.animbg>Animação na Imagem de Fundo</subset.animbg>
+	<subset.belloitem>Exibir item na vista Bello</subset.belloitem>
 	<hartffvViewName>Artflix (Vídeo Tela Cheia)</hartffvViewName>
 	<nflixstcViewName>NFlix (Estático + Capas Customizadas)</nflixstcViewName>
 	<nflixvideoccViewName>NFlix (Vídeo + Capas Customizadas)</nflixvideoccViewName>
@@ -260,6 +265,7 @@ Theme prohibited for commercial use
 	<subset.ShowTopMarquee>Afficher le marquee superieur dans les vues CoinOps</subset.ShowTopMarquee>
 	<subset.animcarousel>Carrousel de roue animé</subset.animcarousel>
 	<subset.animbg>Animation d'image d'arrière-plan</subset.animbg>
+	<subset.belloitem>Afficher l'élément dans la vue Bello</subset.belloitem>
   </variables> 
  
    <variables lang="de">
@@ -352,6 +358,7 @@ Theme prohibited for commercial use
     <subset.tveffect>CoinOps-Ansichtsbildschirmeffekt</subset.tveffect>
     <subset.syscarousel>Systemauswahlkarussell</subset.syscarousel>
     <subset.sysname>Systemnamen in Systemauswahl</subset.sysname>
+	<subset.belloitem>Element in der Bello-Ansicht anzeigen</subset.belloitem>
     <subset.CoinOpsDefault>Standardhintergrund von CoinOps-Ansichten</subset.CoinOpsDefault>
     <subset.ShowTopMarquee>Zeige oberstes Laufband in CoinOps-Ansichten</subset.ShowTopMarquee>
     </variables> 
@@ -489,7 +496,6 @@ Theme prohibited for commercial use
     <subset.sysname>系統選擇中的系統名稱</subset.sysname>
     <subset.ShowTopMarquee>在 CoinOps 視圖中顯示頂部選取框</subset.ShowTopMarquee>
   </variables>
-
  
   
   <variables lang="es">
@@ -588,8 +594,8 @@ Theme prohibited for commercial use
 	<subset.ShowTopMarquee>Mostrar la marquee superior en las vistas de CoinOps</subset.ShowTopMarquee>
 	<subset.animcarousel>Carrusel de ruedas animado</subset.animcarousel>	
 	<subset.animbg>Animación de imagen de fondo</subset.animbg>
+	<subset.belloitem>Mostrar elemento en la vista Bello</subset.belloitem>
   </variables>
-
 
   
    
