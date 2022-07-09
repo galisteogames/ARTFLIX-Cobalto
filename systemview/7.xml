@@ -158,7 +158,7 @@
 		<path>./../assets/logos/$system.svg</path>
 	</image>
 	  
-      <image name="background" extra="true" lang="pt">
+      <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
