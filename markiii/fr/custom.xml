@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Master System (マスターシステム) ou Sega Master System (aussi abrégé SMS) est une console de jeux vidéo de troisième génération, conçue et commercialisée par le constructeur japonais Sega Enterprises, Ltd.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Master System</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>			
+	</view>
+</theme>

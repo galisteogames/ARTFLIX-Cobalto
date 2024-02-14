@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Comercializada en Japón bajo el nombre SEGA Mark III, es una consola de videojuegos de 8 bits basada en cartuchos y tarjetas, que fue desarrollada por Sega. Aunque estuvo muy por detrás en ventas fuera de Europa y Brasil.</text>
+		</text>
+		
+					
+		<text name="info2" extra="true">
+			<text>Master System</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1985</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>			
+	</view>
+</theme>
