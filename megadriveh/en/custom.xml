@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>It is a 16-bit video game console from Sega that competed directly with the SNES. The console was very successful in the 1990s, losing ground after the emergence and popularization of the new generation of consoles.</text>
+		</text>
+		
+
+						<text name="info2" extra="true">
+			<text>Sega Genesis</text>
+		</text>
+		
+
+	
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	
+	</view>
+
+</theme>

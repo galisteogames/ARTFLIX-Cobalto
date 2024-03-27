@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Il s’agit d’une console de jeux vidéo 16 bits de Sega qui est en concurrence directe avec la SNES. La console a connu un grand succès dans les années 90, perdant du terrain après l’émergence et la popularisation de la nouvelle génération de consoles.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Sega Mega Drive</text>
+		</text>
+
+	
+		<text name="info3" extra="true">
+			<text>1988</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>	
+	
+	</view>
+
+</theme>
