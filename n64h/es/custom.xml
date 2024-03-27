@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo 64 es la cuarta videoconsola de sobremesa producida por Nintendo, desarrollada para suceder a la Super Nintendo y para competir con el Saturn de Sega y la PlayStation de Sony.</text>
+		</text>
+		
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

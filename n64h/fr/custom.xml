@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Nintendo 64 (ニンテンドウ64), également connue sous les noms de code Ultra 64 lors de sa phase de développement, est une console de jeux vidéo de salon, sortie en 1996, du constructeur japonais Nintendo.</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>Nintendo 64</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1996</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Nintendo</text>
+		</text>			
+	</view>
+</theme>

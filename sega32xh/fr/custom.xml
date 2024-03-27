@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Est une extension de la Mega Drive, console du constructeur japonais Sega. La 32X utilise indépendamment de la Mega Drive ses propres cartouches de jeu et dispose d'une ludothèque de quarante jeux vidéo.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Mega Drive 32X</text>
+		</text>
+		
+				<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Sega Corporation</text>
+		</text>	
+		
+
+	</view>
+</theme>

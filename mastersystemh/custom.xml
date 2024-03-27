@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Master System is the 8-bit video game console produced by Sega, to compete with the Nintendo Entertainment System.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Master System é o console de videogame de 8-bits produzido pela Sega, para concorrer com o Nintendo Entertainment System.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The Master System is the 8-bit video game console produced by Sega, to compete with the Nintendo Entertainment System.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Master System es la consola de videojuegos de 8 bits producida por Sega, para competir con Nintendo Entertainment System.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Master System est la console de jeu vidéo 8 bits produite par Sega, pour concurrencer la Nintendo Entertainment System.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Master System ist die 8-Bit-Videospielkonsole von Sega, die mit dem Nintendo Entertainment System konkurrieren soll.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Master System Hacks</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>1986</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+	</view>
+</theme>

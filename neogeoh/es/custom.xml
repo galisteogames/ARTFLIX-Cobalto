@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true">
+			<text>Neo-Geo es el nombre de un sistema de 16 bits basado en cartuchos para arcades así como videoconsolas para el hogar lanzado en 1990 por la compañía de videojuegos japonesa SNK.</text>
+		</text>
+		
+
+		
+		<text name="info2" extra="true">
+			<text>Neo Geo</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1990</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SNK Corporation</text>
+		</text>			
+	</view>
+</theme>
