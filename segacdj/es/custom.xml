@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+<text name="info1" extra="true">
+			<text>Sega Mega-CD es un periférico de hardware de la consola Sega Mega Drive producida por Sega. El Mega-CD fue el intento de Sega de hacer la competencia en Japón al CD de la PC Engine.</text>
+		</text>
+		
+		
+		
+				<text name="info2" extra="true">
+			<text>Sega CD</text>
+		</text>
+
+		
+				<text name="info3" extra="true">
+			<text>1991</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>SEGA Corporation</text>
+		</text>
+		
+		<image name="logo">
+		<path>./../_inc/logos/segamegacd.png</path>
+	</image>	
+	
+</view>
+
+</theme>
