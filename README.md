@@ -1,5 +1,6 @@
 <div align="center">
-<img src=https://user-images.githubusercontent.com/69799468/136852752-de671bd5-b7ff-4dba-a3be-22d0aab3220b.png>
+<img width="1423" height="752" alt="ARTFLIX_COBALTO_transparente" src="https://github.com/user-attachments/assets/e9848b07-7eea-4b41-8528-cca6c28d501f" />
+
 </div>
 
 # ARTFLIX-Cobalto
